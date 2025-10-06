@@ -1,0 +1,1051 @@
+Date,Invoice_ID,Product_Category,Product_Name,Quantity,Unit_Price,Total_Amount,Payment_Mode,Profit,Customer_City
+2024-02-20,INV1247,Bicycle,Hero Sprint 26T,2,9783,19566.0,Card,3259,Akkalkot
+2024-02-07,INV8540,Spare Part,Brake Cable,2,222,444.0,Cash,46,Barshi
+2024-10-07,INV7519,Spare Part,Brake Cable,3,928,2784.0,Cash,413,Solapur
+2024-10-28,INV7811,Bicycle,Firefox Bad Attitude,1,19460,19460.0,UPI,4401,Mohol
+2024-10-14,INV9738,Spare Part,Brake Cable,1,651,651.0,Bank Transfer,78,Barshi
+2024-07-06,INV4724,Bicycle,Firefox Bad Attitude,2,17668,35336.0,Bank Transfer,5898,Solapur
+2024-07-28,INV5337,Accessory,Cycle Pump,2,201,402.0,UPI,92,Kurduwadi
+2024-10-05,INV9239,Accessory,Hand Gloves,2,567,1134.0,Cash,152,Mohol
+2024-02-07,INV7114,Bicycle,Firefox Bad Attitude,2,14206,28412.0,Bank Transfer,3750,Barshi
+2024-06-28,INV3511,Spare Part,Tyre Tube Set,3,954,2862.0,Cash,690,Solapur
+2024-05-04,INV1903,Accessory,Water Bottle Holder,2,738,1476.0,UPI,149,Solapur
+2024-11-10,INV8499,Bicycle,Firefox Bad Attitude,3,8849,26547.0,Bank Transfer,5622,Kurduwadi
+2025-06-19,INV2361,Bicycle,Hero Octane 700C,2,16061,32122.0,Bank Transfer,4497,Akkalkot
+2024-09-07,INV7591,Bicycle,Atlas 27T,1,14526,14526.0,Card,2835,Kurduwadi
+2025-06-23,INV1161,Bicycle,Hero Sprint 26T,1,18007,18007.0,Bank Transfer,1993,Barshi
+2024-02-17,INV6428,Spare Part,Chain Set,3,505,1515.0,Cash,208,Solapur
+2025-06-11,INV9016,Bicycle,Hercules Roadeo 29T,1,13149,13149.0,Cash,3181,Solapur
+2025-04-27,INV9657,Spare Part,Chain Set,3,311,933.0,Cash,123,Barshi
+2024-06-16,INV2939,Spare Part,Brake Cable,1,704,704.0,Cash,148,Pandharpur
+2024-06-23,INV4419,Accessory,Water Bottle Holder,1,642,642.0,Bank Transfer,152,Kurduwadi
+2024-04-02,INV3927,Bicycle,Hercules Roadeo 29T,2,8098,16196.0,Bank Transfer,3019,Mohol
+2024-04-30,INV3446,Spare Part,Pedal Set,1,288,288.0,Cash,54,Mohol
+2024-07-26,INV6210,Spare Part,Tyre Tube Set,3,968,2904.0,Card,501,Barshi
+2024-10-01,INV1931,Accessory,Hand Gloves,1,727,727.0,Bank Transfer,84,Solapur
+2024-12-29,INV6077,Bicycle,Hero Sprint 26T,3,15246,45738.0,Card,9811,Solapur
+2024-04-29,INV9465,Bicycle,Hercules Roadeo 29T,3,15993,47979.0,Card,6246,Mohol
+2025-02-23,INV6858,Bicycle,Firefox Bad Attitude,3,13850,41550.0,Bank Transfer,8656,Mohol
+2024-09-07,INV8342,Bicycle,Hero Sprint 26T,1,18563,18563.0,Cash,3583,Solapur
+2024-10-10,INV1089,Accessory,Lock,3,790,2370.0,Bank Transfer,261,Akkalkot
+2024-08-06,INV5736,Accessory,Lock,2,270,540.0,UPI,91,Solapur
+2024-03-21,INV1202,Accessory,Lock,2,350,700.0,Card,168,Solapur
+2025-04-13,INV8908,Bicycle,Atlas 27T,1,19087,19087.0,Bank Transfer,4011,Mohol
+2024-01-07,INV1920,Bicycle,Atlas 27T,1,16544,16544.0,UPI,2445,Akkalkot
+2024-04-26,INV5292,Bicycle,Firefox Bad Attitude,2,9709,19418.0,Cash,3224,Solapur
+2024-09-14,INV7043,Accessory,Lock,2,621,1242.0,Cash,260,Akkalkot
+2024-01-24,INV4981,Accessory,Hand Gloves,3,634,1902.0,,281,Barshi
+2024-12-21,INV5941,Spare Part,Gear Cable,1,756,756.0,Bank Transfer,143,Barshi
+2024-11-09,INV3373,Spare Part,Pedal Set,3,934,2802.0,Cash,598,Barshi
+2024-02-29,INV8261,Spare Part,Brake Cable,1,658,658.0,UPI,84,Akkalkot
+2024-09-13,INV5803,Bicycle,Hero Sprint 26T,1,18750,18750.0,Card,2572,Barshi
+2024-09-24,INV8491,Accessory,Water Bottle Holder,3,358,1074.0,UPI,231,Barshi
+2025-02-25,INV3754,Spare Part,Pedal Set,1,889,889.0,Card,106,Solapur
+2024-06-11,INV2085,Accessory,Hand Gloves,2,593,1186.0,Card,214,Mohol
+2024-04-26,INV9541,Accessory,Hand Gloves,1,472,472.0,Cash,58,Barshi
+2024-08-26,INV5967,Spare Part,Gear Cable,3,948,2844.0,Cash,603,Barshi
+2024-12-02,INV6514,Bicycle,Hero Sprint 26T,2,15485,30970.0,UPI,4498,Barshi
+2024-07-05,INV4797,Spare Part,,2,182,364.0,UPI,83,Mohol
+2025-01-04,INV9132,Spare Part,Tyre Tube Set,2,330,660.0,Card,73,Akkalkot
+2025-06-22,INV2789,Bicycle,Avon Lady Star 24T,2,9974,19948.0,Bank Transfer,4803,Solapur
+2025-05-10,INV4280,Spare Part,Pedal Set,2,750,1500.0,UPI,329,Mohol
+2025-04-08,INV4866,Bicycle,Hero Sprint 26T,3,9994,29982.0,Card,4023,Pandharpur
+2025-01-18,INV4015,Bicycle,Avon Lady Star 24T,2,19943,39886.0,Cash,7478,Solapur
+2024-05-13,INV4993,Spare Part,Tyre Tube Set,1,704,704.0,Bank Transfer,115,Barshi
+2025-06-29,INV1152,Spare Part,,2,834,1668.0,Cash,417,Barshi
+2024-01-08,INV3609,Bicycle,Firefox Bad Attitude,2,19647,39294.0,Bank Transfer,5408,Solapur
+2024-01-09,INV7335,Spare Part,Tyre Tube Set,2,213,426.0,Bank Transfer,67,Pandharpur
+2024-01-07,INV1378,Accessory,Water Bottle Holder,1,328,328.0,UPI,80,Pandharpur
+2024-12-18,INV7964,Accessory,Helmet,1,702,702.0,Cash,156,Solapur
+2024-07-25,INV8870,Spare Part,Tyre Tube Set,3,976,2928.0,Card,631,Barshi
+2025-06-14,INV8902,Accessory,Water Bottle Holder,3,973,2919.0,UPI,378,Kurduwadi
+2024-06-28,INV5633,Accessory,Hand Gloves,1,829,829.0,Bank Transfer,154,Barshi
+2024-08-07,INV2876,Accessory,Water Bottle Holder,1,789,789.0,Card,147,Akkalkot
+2025-03-02,INV4924,Accessory,Lock,1,213,213.0,Cash,29,Mohol
+2025-01-09,INV5642,Spare Part,Brake Cable,1,999,999.0,UPI,116,Solapur
+2024-09-16,INV3245,Accessory,Cycle Pump,1,548,548.0,Cash,83,Akkalkot
+2025-06-08,INV1721,Bicycle,Hero Octane 700C,3,14543,43629.0,Card,8370,Solapur
+2025-01-18,INV6034,Bicycle,Hercules Roadeo 29T,2,14931,29862.0,,5785,Barshi
+2024-11-04,INV9974,Spare Part,Chain Set,3,559,1677.0,Cash,370,Kurduwadi
+2024-06-18,INV6661,Spare Part,Chain Set,2,512,1024.0,UPI,254,Akkalkot
+2025-01-03,INV6755,Bicycle,Hero Sprint 26T,3,11681,35043.0,Bank Transfer,6937,Pandharpur
+2024-11-21,INV4354,Accessory,Cycle Pump,3,757,2271.0,UPI,317,Barshi
+2025-06-14,INV7554,Accessory,,3,875,2625.0,Bank Transfer,496,Solapur
+2024-08-22,INV8729,Accessory,Helmet,3,658,1974.0,Cash,431,Akkalkot
+2024-10-05,INV6364,Bicycle,Firefox Bad Attitude,3,15207,45621.0,Cash,9436,Akkalkot
+2025-07-03,INV8095,Accessory,Cycle Pump,2,805,1610.0,Cash,371,Akkalkot
+2024-06-15,INV5100,Spare Part,Brake Cable,3,951,2853.0,Bank Transfer,701,Solapur
+2024-02-28,INV1146,Bicycle,Hercules Roadeo 29T,3,8381,25143.0,Card,5258,Kurduwadi
+2024-02-17,INV6428,Spare Part,Chain Set,3,505,1515.0,Cash,208,Solapur
+2025-04-28,INV6112,Accessory,Lock,2,826,1652.0,Bank Transfer,331,Mohol
+2024-01-13,INV6859,Bicycle,Hero Octane 700C,2,17029,34058.0,Bank Transfer,7170,Barshi
+2025-04-10,INV8916,Spare Part,Tyre Tube Set,1,284,284.0,,59,Kurduwadi
+2024-03-09,INV4315,Bicycle,Atlas 27T,2,17534,35068.0,,4296,Kurduwadi
+2025-03-03,INV8427,Spare Part,,2,457,914.0,Bank Transfer,163,Pandharpur
+2025-02-25,INV5878,Bicycle,Firefox Bad Attitude,3,9451,28353.0,Card,7008,Mohol
+2024-03-03,INV4487,Bicycle,Atlas 27T,2,12389,24778.0,Bank Transfer,5568,Akkalkot
+2024-09-23,INV9744,Accessory,Helmet,3,944,2832.0,Card,309,Kurduwadi
+2024-03-14,INV5376,Accessory,Lock,2,850,1700.0,Card,405,Kurduwadi
+2024-03-31,INV4331,Spare Part,,3,715,2145.0,Card,407,Kurduwadi
+2024-10-23,INV9589,Spare Part,Gear Cable,3,516,1548.0,Cash,294,Kurduwadi
+2024-12-10,INV8810,Bicycle,Firefox Bad Attitude,3,18475,55425.0,Cash,8873,Pandharpur
+2024-10-15,INV9281,Accessory,Water Bottle Holder,2,350,700.0,Card,167,Kurduwadi
+2024-01-17,INV7019,Spare Part,Tyre Tube Set,3,775,2325.0,Bank Transfer,321,Pandharpur
+2024-05-24,INV6968,Accessory,,2,523,1046.0,Card,156,Pandharpur
+2024-03-31,INV8385,Accessory,Helmet,1,783,783.0,Bank Transfer,-159,Mohol
+2025-03-01,INV4413,Spare Part,Pedal Set,2,575,1150.0,,182,Kurduwadi
+2024-12-12,INV8124,Spare Part,Gear Cable,2,684,1368.0,,293,Barshi
+2024-01-22,INV3284,Accessory,Cycle Pump,1,726,726.0,UPI,175,Kurduwadi
+2025-02-11,INV3906,Accessory,Water Bottle Holder,3,262,786.0,Bank Transfer,191,Kurduwadi
+2024-10-07,INV8776,Bicycle,Hercules Roadeo 29T,2,15280,30560.0,Cash,4449,Mohol
+2024-10-01,INV4174,Bicycle,Firefox Bad Attitude,3,11224,33672.0,Bank Transfer,4379,Pandharpur
+2024-08-21,INV5471,Accessory,Hand Gloves,3,438,1314.0,Cash,256,Mohol
+2024-05-12,INV1009,Accessory,Helmet,2,542,1084.0,Bank Transfer,178,Solapur
+2025-06-25,INV7435,Spare Part,Tyre Tube Set,2,597,1194.0,Cash,200,Barshi
+2024-07-08,INV5664,Bicycle,Hero Sprint 26T,1,14439,14439.0,Bank Transfer,3244,Akkalkot
+2024-02-17,INV7428,Bicycle,Hero Octane 700C,1,18726,18726.0,Cash,3778,Barshi
+2025-03-11,INV2653,Spare Part,Pedal Set,2,825,1650.0,Cash,300,Pandharpur
+2025-06-09,INV6364,Spare Part,Pedal Set,3,479,1437.0,Bank Transfer,206,Solapur
+2025-04-18,INV6361,Spare Part,Pedal Set,1,507,507.0,Cash,112,Solapur
+2025-05-06,INV1169,Spare Part,,2,310,620.0,UPI,118,Solapur
+2025-04-14,INV8719,Bicycle,Hero Octane 700C,3,13810,41430.0,Card,5321,Barshi
+2025-01-19,INV9083,Accessory,Water Bottle Holder,1,878,878.0,Card,116,Akkalkot
+2024-09-20,INV4073,Accessory,Helmet,2,325,650.0,UPI,100,Akkalkot
+2024-10-12,INV8622,Bicycle,Hero Sprint 26T,1,16305,16305.0,Bank Transfer,3692,Pandharpur
+2024-12-15,INV7327,Bicycle,Firefox Bad Attitude,1,13796,13796.0,Bank Transfer,1674,Solapur
+2025-06-25,INV6391,Bicycle,Firefox Bad Attitude,2,8459,16918.0,Card,2899,Pandharpur
+2024-06-04,INV7978,Accessory,Hand Gloves,2,760,1520.0,Cash,378,Kurduwadi
+2024-09-19,INV5716,Accessory,Lock,1,219,219.0,Card,41,Pandharpur
+2025-05-17,INV6824,Accessory,Hand Gloves,1,507,507.0,Bank Transfer,96,Mohol
+2024-12-01,INV8282,Accessory,Water Bottle Holder,3,260,780.0,Cash,115,Akkalkot
+2024-03-12,INV3502,Spare Part,Pedal Set,3,550,1650.0,Cash,212,Pandharpur
+2024-07-31,INV5285,Spare Part,Chain Set,1,840,840.0,Cash,96,Solapur
+2024-01-11,INV6678,Bicycle,Firefox Bad Attitude,3,17343,,Card,9121,Solapur
+2024-07-01,INV8768,Spare Part,Tyre Tube Set,1,258,258.0,Bank Transfer,53,Akkalkot
+2024-08-20,INV7109,Accessory,Lock,3,651,1953.0,Cash,452,Pandharpur
+2025-02-14,INV2403,Spare Part,Brake Cable,3,383,1149.0,Card,235,Barshi
+2024-02-29,INV9620,Bicycle,Atlas 27T,3,10159,30477.0,UPI,6637,Mohol
+2025-05-09,INV8015,Spare Part,Pedal Set,3,304,912.0,UPI,-147,Kurduwadi
+2024-12-30,INV4689,Spare Part,,3,492,1476.0,Cash,251,Akkalkot
+2024-10-17,INV6459,Spare Part,Tyre Tube Set,1,215,215.0,Bank Transfer,51,Barshi
+2024-06-28,INV9897,Accessory,Water Bottle Holder,3,346,1038.0,UPI,255,Pandharpur
+2024-05-12,INV1028,Bicycle,Firefox Bad Attitude,3,8928,26784.0,UPI,5107,Akkalkot
+2024-01-15,INV5632,Bicycle,,3,11011,33033.0,Cash,5903,Pandharpur
+2024-10-27,INV6258,Spare Part,Chain Set,3,317,951.0,Bank Transfer,223,Solapur
+2024-11-12,INV7975,Spare Part,Pedal Set,1,354,354.0,Bank Transfer,58,Barshi
+2025-07-03,INV6574,Spare Part,Brake Cable,1,916,916.0,Cash,149,Pandharpur
+2024-12-20,INV7542,Bicycle ,Cycle Pump,2,233,466.0,Card,94,Solapur
+2024-03-29,INV4147,Bicycle,Firefox Bad Attitude,2,13170,26340.0,Cash,4293,Mohol
+2024-04-07,INV6767,Accessory,,1,887,887.0,Bank Transfer,128,Kurduwadi
+2024-08-17,INV3517,Bicycle,Avon Lady Star 24T,3,13945,41835.0,UPI,9881,Kurduwadi
+2024-07-29,INV9997,Accessory,Cycle Pump,1,963,963.0,,145,Pandharpur
+2024-02-26,INV8384,Spare Part,Gear Cable,3,321,963.0,UPI,202,Solapur
+2024-06-28,INV9816,Bicycle,Hero Sprint 26T,3,14374,43122.0,Card,10030,Akkalkot
+2024-08-02,INV2733,Spare Part,Pedal Set,2,209,418.0,Bank Transfer,87,Solapur
+2024-05-29,INV9387,Bicycle,Avon Lady Star 24T,3,15047,45141.0,Bank Transfer,9982,Akkalkot
+2024-02-29,INV8261,Spare Part,Brake Cable,1,658,658.0,UPI,84,Akkalkot
+2024-02-01,INV7365,Accessory,Helmet,1,795,,Cash,155,Mohol
+2024-07-30,INV2283,Spare Part,Brake Cable,1,151,151.0,Card,30,Mohol
+2025-04-28,INV6112,Accessory,Lock,2,826,1652.0,Bank Transfer,331,Mohol
+2025-03-31,INV5510,Spare Part,Gear Cable,2,463,926.0,Cash,118,Kurduwadi
+2025-06-27,INV9596,Accessory,Cycle Pump,3,864,2592.0,Cash,551,Barshi
+2024-07-08,INV9977,Spare Part,Gear Cable,2,778,1556.0,Card,248,Akkalkot
+2024-03-11,INV8125,Bicycle,Hero Sprint 26T,3,14561,43683.0,UPI,8506,Solapur
+2025-06-04,INV8632,Bicycle,Firefox Bad Attitude,2,15060,30120.0,Cash,7059,Mohol
+2024-08-08,INV6631,Bicycle,Hero Sprint 26T,3,18403,55209.0,Card,7458,Pandharpur
+2024-03-06,INV2817,Spare Part,Gear Cable,1,421,421.0,Cash,68,Akkalkot
+2024-01-26,INV7001,Spare Part,Brake Cable,2,778,1556.0,,298,Pandharpur
+2024-04-10,INV3118,Spare Part,Brake Cable,2,442,884.0,Card,133,Solapur
+2024-01-17,INV1001,Spare Part,Gear Cable,3,993,2979.0,UPI,699,Solapur
+2024-01-31,INV6342,Spare Part,Chain Set,1,824,824.0,Card,93,Solapur
+2024-09-27,INV6338,Accessory,Water Bottle Holder,1,257,257.0,Cash,43,Akkalkot
+2025-06-09,INV6364,Spare Part,Pedal Set,3,479,1437.0,Bank Transfer,206,Solapur
+2024-01-23,INV1062,Spare Part,Pedal Set,1,347,347.0,Card,56,Pandharpur
+2024-08-15,INV6025,Bicycle,Hercules Roadeo 29T,1,14701,14701.0,Bank Transfer,3462,Barshi
+2024-07-21,INV4402,Accessory,Water Bottle Holder,2,666,1332.0,Card,261,Barshi
+2025-02-22,INV6849,Accessory,Hand Gloves,3,938,2814.0,UPI,459,Mohol
+2024-05-14,INV7549,Accessory,Lock,3,245,735.0,Cash,107,Akkalkot
+2025-03-28,INV9403,Bicycle,Avon Lady Star 24T,2,9195,18390.0,UPI,4061,Solapur
+2025-07-01,INV6486,Bicycle,Hero Sprint 26T,3,12867,38601.0,Bank Transfer,7593,Solapur
+2024-07-18,INV3016,Accessory,Water Bottle Holder,3,513,1539.0,Card,226,Mohol
+2024-04-07,INV9811,Bicycle,Hercules Roadeo 29T,2,19867,39734.0,Bank Transfer,4004,Mohol
+2025-03-27,INV5349,Accessory,Cycle Pump,3,929,2787.0,Cash,408,Mohol
+2025-04-01,INV2508,Spare Part,Gear Cable,3,848,2544.0,Cash,348,Barshi
+2024-12-14,INV8599,Spare Part,Pedal Set,2,887,1774.0,Card,277,Mohol
+2024-01-30,INV1484,Spare Part,Tyre Tube Set,2,182,364.0,UPI,44,Mohol
+2024-09-09,INV8699,Accessory,,1,615,615.0,Bank Transfer,83,Barshi
+2024-11-18,INV6754,Bicycle,Avon Lady Star 24T,1,15983,15983.0,Card,2035,Akkalkot
+2025-05-02,INV5362,Spare Part,Brake Cable,1,383,383.0,Cash,77,Pandharpur
+2024-04-29,INV9465,Bicycle,Hercules Roadeo 29T,3,15993,47979.0,Card,6246,Mohol
+2024-11-10,INV4131,Bicycle,Hero Sprint 26T,1,19699,19699.0,Bank Transfer,2331,Solapur
+2024-11-25,INV5613,Spare Part,Brake Cable,1,208,208.0,Bank Transfer,29,Pandharpur
+2024-08-08,INV2016,Accessory,Hand Gloves,2,662,1324.0,Card,312,Pandharpur
+2025-01-21,INV6882,Accessory,Hand Gloves,2,963,1926.0,Bank Transfer,292,Pandharpur
+2024-07-12,INV6083,Spare Part,Brake Cable,2,604,1208.0,Card,191,Akkalkot
+2024-05-24,INV6968,Accessory,,2,523,1046.0,Card,156,Pandharpur
+2024-10-16,INV1277,Accessory,,1,950,950.0,UPI,97,Kurduwadi
+2024-11-05,INV8836,Accessory,Hand Gloves,3,887,2661.0,Bank Transfer,489,Solapur
+2025-05-25,INV8174,Spare Part,Pedal Set,3,419,1257.0,Cash,277,Mohol
+2024-11-28,INV3396,Spare Part,Brake Cable,2,788,1576.0,UPI,340,Mohol
+2025-02-26,INV9827,Spare Part,Tyre Tube Set,1,993,993.0,UPI,104,Solapur
+2024-08-23,INV1956,Bicycle,,1,10073,10073.0,Bank Transfer,1009,Mohol
+2024-01-20,INV1396,Accessory,Water Bottle Holder,3,694,2082.0,Cash,460,Kurduwadi
+2025-03-18,INV5070,Accessory,Helmet,2,673,1346.0,UPI,149,Mohol
+2025-06-20,INV3233,Bicycle,Hero Octane 700C,3,12903,38709.0,Cash,6022,Akkalkot
+2025-06-29,INV1800,Bicycle,Hero Octane 700C,2,9240,18480.0,Card,4103,Barshi
+2024-09-01,INV5979,Bicycle,Hero Octane 700C,2,9815,19630.0,Cash,4220,Pandharpur
+2025-06-18,INV9598,Accessory,Helmet,1,317,317.0,Card,40,Solapur
+2025-06-16,INV2034,Accessory,Hand Gloves,1,699,699.0,UPI,119,Pandharpur
+2024-09-29,INV1621,Spare Part,Chain Set,1,860,860.0,Card,97,Akkalkot
+2024-11-05,INV8483,Spare Part,Chain Set,1,804,804.0,Cash,131,Akkalkot
+2024-07-10,INV8884,Spare Part,Chain Set,3,937,2811.0,Cash,677,Mohol
+2024-05-11,INV2885,Bicycle,Hero Octane 700C,2,14805,29610.0,Bank Transfer,6004,Barshi
+2024-04-13,INV9974,Bicycle,Atlas 27T,2,15723,31446.0,Bank Transfer,5966,Kurduwadi
+2025-01-09,INV2875,Bicycle,Hero Octane 700C,2,19421,38842.0,Bank Transfer,8243,Pandharpur
+2024-09-12,INV7452,Bicycle,Avon Lady Star 24T,1,16895,16895.0,Cash,1756,Barshi
+2024-07-10,INV6572,Accessory,Helmet,2,789,1578.0,UPI,339,Mohol
+2024-04-28,INV4114,Bicycle,,2,15746,31492.0,Cash,5368,Barshi
+2024-12-05,INV7497,Spare Part,Tyre Tube Set,2,224,448.0,Cash,63,Solapur
+2024-02-25,INV9517,Spare Part,Tyre Tube Set,2,299,598.0,Cash,85,Barshi
+2025-04-01,INV4177,Spare Part,Tyre Tube Set,3,626,1878.0,,292,Barshi
+2024-11-09,INV9594,Bicycle,Firefox Bad Attitude,2,15780,31560.0,Bank Transfer,4877,Akkalkot
+2024-11-28,INV9119,Bicycle ,Hand Gloves,1,393,393.0,UPI,90,Pandharpur
+2024-11-21,INV4354,Accessory,Cycle Pump,3,757,2271.0,UPI,317,Barshi
+2025-04-23,INV8683,Spare Part,Gear Cable,3,548,1644.0,Bank Transfer,274,Mohol
+2024-10-01,INV2406,Bicycle,Hero Octane 700C,2,18359,36718.0,Bank Transfer,5787,Barshi
+2024-08-23,INV7601,Bicycle,Atlas 27T,1,8908,8908.0,Cash,2035,Barshi
+2024-10-25,INV1569,Bicycle,Avon Lady Star 24T,2,11358,22716.0,UPI,5448,Akkalkot
+2025-05-13,INV7832,Spare Part,Pedal Set,3,519,1557.0,Card,336,Kurduwadi
+2025-03-08,INV1855,Spare Part,,2,722,1444.0,Bank Transfer,211,Kurduwadi
+2024-11-06,INV6327,Accessory,Cycle Pump,1,891,891.0,UPI,133,Pandharpur
+2024-12-28,INV6309,Bicycle,Atlas 27T,1,18365,18365.0,Bank Transfer,2185,Pandharpur
+2024-09-27,INV7715,Spare Part,Chain Set,2,170,340.0,Cash,72,Akkalkot
+2024-11-05,INV8048,Accessory,Water Bottle Holder,1,413,413.0,Bank Transfer,66,Mohol
+2025-06-19,INV8730,Bicycle,Hero Octane 700C,3,15109,45327.0,UPI,8877,Akkalkot
+2025-01-03,INV6147,Bicycle,Avon Lady Star 24T,3,12668,38004.0,UPI,5107,Kurduwadi
+2024-05-31,INV1094,Accessory,Hand Gloves,3,267,801.0,UPI,84,Pandharpur
+2025-01-03,INV7834,Bicycle,Firefox Bad Attitude,3,10025,30075.0,Bank Transfer,6831,Pandharpur
+2024-06-29,INV3281,Spare Part,Gear Cable,1,371,371.0,Card,84,Mohol
+2024-05-27,INV9680,Bicycle,Hero Octane 700C,1,17330,17330.0,Bank Transfer,2067,Akkalkot
+2024-02-20,INV5325,Accessory,Water Bottle Holder,2,931,1862.0,UPI,274,Mohol
+2024-01-15,INV1656,Bicycle,Hercules Roadeo 29T,2,14776,29552.0,Card,5099,Kurduwadi
+2024-02-18,INV4629,Accessory,Hand Gloves,3,846,2538.0,Cash,505,Kurduwadi
+2024-01-02,INV7240,Bicycle,Avon Lady Star 24T,3,17249,51747.0,Bank Transfer,8793,Barshi
+2024-07-19,INV6766,Bicycle,Atlas 27T,3,8611,25833.0,Cash,6164,Kurduwadi
+2024-02-29,INV9624,Bicycle,Hercules Roadeo 29T,3,18617,55851.0,Cash,11615,Kurduwadi
+2025-03-01,INV4987,Bicycle,Hero Sprint 26T,1,18730,18730.0,Card,2449,Mohol
+2025-02-24,INV7612,Spare Part,Tyre Tube Set,3,383,1149.0,Card,133,Kurduwadi
+2025-01-24,INV6064,Bicycle,Hercules Roadeo 29T,1,15878,15878.0,UPI,3009,Akkalkot
+2024-09-03,INV6644,Bicycle,Atlas 27T,2,14382,28764.0,Card,3789,Pandharpur
+2025-07-01,INV3475,Accessory,Water Bottle Holder,1,273,273.0,Card,32,Kurduwadi
+2024-11-22,INV7642,Accessory,Cycle Pump,3,452,1356.0,Cash,215,Kurduwadi
+2024-01-09,INV5740,Bicycle,Hercules Roadeo 29T,3,14397,43191.0,Bank Transfer,4846,Mohol
+2025-01-26,INV3461,Spare Part,Tyre Tube Set,1,174,174.0,Card,29,Barshi
+2024-08-06,INV1606,Bicycle,Avon Lady Star 24T,2,14614,29228.0,Card,6341,Pandharpur
+2024-01-13,INV3438,Bicycle,Hero Sprint 26T,1,8266,8266.0,Cash,962,Solapur
+2024-04-12,INV1490,Accessory,Cycle Pump,3,827,2481.0,Card,266,Pandharpur
+2024-10-27,INV7672,Accessory,Water Bottle Holder,2,839,1678.0,UPI,310,Akkalkot
+2024-12-28,INV7207,Bicycle,Hercules Roadeo 29T,3,19879,59637.0,UPI,13067,Pandharpur
+2025-03-14,INV6499,Bicycle ,,3,12316,36948.0,Bank Transfer,9150,Pandharpur
+2024-04-14,INV8206,Accessory,Lock,1,741,741.0,Cash,132,Solapur
+2025-05-02,INV6228,Spare Part,Pedal Set,2,224,448.0,UPI,97,Pandharpur
+2025-02-14,INV4602,Accessory,Helmet,3,743,2229.0,Card,249,Barshi
+2025-01-02,INV1962,Bicycle,Firefox Bad Attitude,3,8670,26010.0,Bank Transfer,4812,Akkalkot
+2024-10-03,INV1126,Accessory,Cycle Pump,3,655,1965.0,Cash,286,Kurduwadi
+2024-02-06,INV7235,Bicycle,Hero Sprint 26T,1,15466,15466.0,UPI,2477,Mohol
+2024-01-11,INV3628,Bicycle,Hero Sprint 26T,2,14832,29664.0,Cash,4984,Pandharpur
+2024-12-07,INV9828,Spare Part,Chain Set,1,398,398.0,UPI,92,Barshi
+2025-03-09,INV3102,Accessory,Water Bottle Holder,1,474,474.0,Cash,66,Akkalkot
+2024-05-05,INV6199,Bicycle,Firefox Bad Attitude,3,11868,35604.0,Bank Transfer,8449,Mohol
+2024-05-07,INV2788,Spare Part,Gear Cable,1,363,363.0,UPI,75,Akkalkot
+2025-02-16,INV2012,Spare Part,Tyre Tube Set,1,269,269.0,UPI,49,Solapur
+2024-04-09,INV6736,Spare Part,Tyre Tube Set,3,279,837.0,Card,127,Mohol
+2025-05-31,INV7861,Accessory,Hand Gloves,1,966,966.0,Bank Transfer,107,Kurduwadi
+2025-02-02,INV4817,Spare Part,Pedal Set,3,451,1353.0,UPI,183,Akkalkot
+2024-03-10,INV2046,Spare Part,Chain Set,3,260,780.0,Bank Transfer,194,Solapur
+2025-01-01,INV7229,Spare Part,Gear Cable,2,449,898.0,Card,166,Kurduwadi
+2025-01-16,INV6572,Accessory,Lock,3,880,,UPI,509,Solapur
+2024-08-26,INV5618,Accessory,Hand Gloves,1,424,424.0,UPI,68,Kurduwadi
+2024-10-12,INV2881,Accessory,Lock,3,416,1248.0,,184,Akkalkot
+2025-05-17,INV9097,Bicycle,Atlas 27T,3,18371,55113.0,Cash,8370,Solapur
+2024-06-30,INV9204,Accessory,Cycle Pump,3,709,2127.0,UPI,357,Kurduwadi
+2024-08-23,INV2557,Bicycle,,1,11600,11600.0,Bank Transfer,1437,Barshi
+2025-01-04,INV6648,Spare Part,Brake Cable,2,390,780.0,UPI,117,Akkalkot
+2024-03-25,INV8156,Spare Part,Tyre Tube Set,2,836,1672.0,UPI,328,Akkalkot
+2024-06-26,INV3292,Accessory,Cycle Pump,3,777,2331.0,Bank Transfer,499,Barshi
+2025-07-03,INV4819,Spare Part,Pedal Set,2,551,1102.0,UPI,180,Pandharpur
+2024-09-30,INV5209,Accessory,Cycle Pump,2,783,1566.0,Card,240,Solapur
+2024-09-30,INV5851,Spare Part,Brake Cable,1,927,927.0,Cash,152,Barshi
+2024-11-11,INV1873,Spare Part,Chain Set,2,251,502.0,Cash,103,Kurduwadi
+2024-11-14,INV3797,Accessory,Hand Gloves,3,691,2073.0,Cash,247,Mohol
+2024-01-22,INV2481,Bicycle,Avon Lady Star 24T,2,15361,30722.0,Cash,5151,Akkalkot
+2024-02-12,INV9433,Bicycle,Atlas 27T,2,10989,21978.0,UPI,4832,Solapur
+2024-06-18,INV9711,Accessory,Helmet,1,964,964.0,UPI,179,Mohol
+2025-02-11,INV9552,Accessory,Hand Gloves,3,315,945.0,UPI,224,Solapur
+2025-03-17,INV1643,Bicycle,Atlas 27T,1,8249,8249.0,Card,2043,Kurduwadi
+2024-12-05,INV3098,Spare Part,Brake Cable,2,907,1814.0,Bank Transfer,324,Akkalkot
+2024-02-08,INV7741,Spare Part,Pedal Set,1,152,152.0,Bank Transfer,22,Barshi
+2025-01-13,INV1664,Bicycle,Hercules Roadeo 29T,1,14402,14402.0,UPI,1498,Mohol
+2024-07-14,INV7412,Bicycle,Firefox Bad Attitude,2,8152,16304.0,Cash,3916,Solapur
+2025-01-12,INV6615,Accessory,Cycle Pump,1,703,703.0,UPI,168,Solapur
+2025-02-11,INV8113,Bicycle,Firefox Bad Attitude,1,17931,17931.0,UPI,4085,Pandharpur
+2024-07-27,INV2928,Bicycle,Hero Octane 700C,3,14558,43674.0,UPI,7279,Kurduwadi
+2024-05-23,INV3950,Spare Part,,3,381,1143.0,Bank Transfer,228,Akkalkot
+2024-12-09,INV9356,Bicycle,Firefox Bad Attitude,2,13350,26700.0,Cash,4277,Akkalkot
+2024-11-30,INV5767,Accessory,Water Bottle Holder,3,788,2364.0,Cash,427,Mohol
+2024-02-02,INV8429,Spare Part,Gear Cable,2,266,,Card,79,Barshi
+2025-05-04,INV1733,Accessory,Helmet,1,981,,Bank Transfer,231,Solapur
+2025-04-24,INV6494,Bicycle,Hero Octane 700C,2,16312,32624.0,UPI,3832,Kurduwadi
+2024-05-05,INV7637,Bicycle,Hercules Roadeo 29T,3,15578,46734.0,,7364,Pandharpur
+2024-12-28,INV9026,Bicycle,Hero Sprint 26T,3,19301,57903.0,Cash,9297,Barshi
+2025-06-15,INV8381,Bicycle,Hero Sprint 26T,2,14765,29530.0,Card,4186,Solapur
+2024-03-31,INV5735,Accessory,Cycle Pump,1,987,987.0,Bank Transfer,243,Barshi
+2025-06-22,INV2789,Bicycle,Avon Lady Star 24T,2,9974,19948.0,Bank Transfer,4803,Solapur
+2024-07-19,INV5920,Spare Part,Gear Cable,1,535,535.0,Cash,69,Pandharpur
+2025-05-29,INV6734,Accessory,Hand Gloves,2,932,1864.0,UPI,234,Barshi
+2024-05-09,INV2519,Accessory,Cycle Pump,1,268,,Cash,35,Solapur
+2025-04-08,INV6794,Accessory,Helmet,1,878,878.0,Card,134,Barshi
+2024-06-23,INV8850,Accessory,Helmet,2,235,470.0,Cash,84,Solapur
+2024-04-03,INV3073,Bicycle,Hercules Roadeo 29T,1,15904,15904.0,Cash,1860,Akkalkot
+2025-02-13,INV5215,Spare Part,Gear Cable,2,864,1728.0,Cash,279,Barshi
+2024-01-20,INV8274,Bicycle,Atlas 27T,3,14518,43554.0,Bank Transfer,7225,Mohol
+2024-04-17,INV7640,Bicycle,Firefox Bad Attitude,2,9923,19846.0,Bank Transfer,3751,Kurduwadi
+2024-12-06,INV1543,Bicycle,Firefox Bad Attitude,1,17922,17922.0,Cash,3227,Pandharpur
+2024-10-23,INV2694,Spare Part,,2,365,730.0,Cash,130,Pandharpur
+2024-12-24,INV6829,Accessory,Cycle Pump,3,809,2427.0,Bank Transfer,483,Kurduwadi
+2024-05-30,INV7836,Accessory,Helmet,2,297,594.0,Card,110,Kurduwadi
+2024-07-24,INV2918,Spare Part,Chain Set,2,646,1292.0,Cash,200,Kurduwadi
+2024-06-09,INV6788,Accessory,Helmet,3,536,1608.0,Bank Transfer,377,Solapur
+2025-04-07,INV3984,Bicycle,Hero Sprint 26T,2,15924,31848.0,UPI,3578,Kurduwadi
+2025-06-26,INV5418,Spare Part,Gear Cable,3,203,609.0,UPI,150,Barshi
+2024-02-20,INV2748,Bicycle,Hero Sprint 26T,3,12462,37386.0,UPI,5274,Pandharpur
+2025-05-11,INV8309,Spare Part,Gear Cable,2,417,834.0,Cash,120,Mohol
+2024-02-18,INV2935,Bicycle,Atlas 27T,3,12980,38940.0,UPI,5179,Kurduwadi
+2024-11-03,INV8710,Bicycle,Hero Sprint 26T,1,13742,13742.0,Bank Transfer,1754,Mohol
+2025-01-25,INV1499,Bicycle,Hero Octane 700C,3,8147,24441.0,Bank Transfer,3029,Akkalkot
+2024-06-16,INV9322,Accessory,Cycle Pump,1,459,459.0,UPI,76,Kurduwadi
+2024-07-07,INV8058,Spare Part,Gear Cable,3,933,2799.0,Bank Transfer,426,Solapur
+2024-12-26,INV7413,Bicycle,Firefox Bad Attitude,3,9411,28233.0,Bank Transfer,3878,Mohol
+2024-06-05,INV3623,Accessory,,1,577,577.0,Card,89,Solapur
+2024-11-16,INV4454,Accessory,Cycle Pump,1,780,780.0,Bank Transfer,91,Pandharpur
+2024-12-30,INV1852,Accessory,,2,734,1468.0,,193,Mohol
+2025-01-15,INV6259,Spare Part,Chain Set,2,193,386.0,Cash,78,Kurduwadi
+2025-04-14,INV7179,Accessory,Cycle Pump,2,730,1460.0,UPI,173,Akkalkot
+2024-04-09,INV4007,Accessory,Water Bottle Holder,3,705,2115.0,Cash,469,Pandharpur
+2024-09-28,INV7812,Spare Part,Pedal Set,1,872,872.0,UPI,88,Mohol
+2024-03-20,INV1550,Bicycle,Avon Lady Star 24T,2,19924,39848.0,Bank Transfer,7599,Barshi
+2024-01-13,INV3301,Accessory,Water Bottle Holder,3,872,2616.0,UPI,387,Solapur
+2024-05-01,INV9852,Spare Part,Pedal Set,3,435,1305.0,Cash,195,Akkalkot
+2024-11-15,INV1096,Bicycle,Firefox Bad Attitude,3,19279,57837.0,,8440,Akkalkot
+2024-11-22,INV7695,Spare Part,Chain Set,3,752,2256.0,Cash,310,Mohol
+2025-05-10,INV7874,Accessory,Lock,2,783,1566.0,Bank Transfer,306,Barshi
+2024-12-14,INV7399,Accessory,Hand Gloves,3,557,1671.0,Cash,387,Kurduwadi
+2024-01-11,INV1886,Spare Part,Chain Set,2,878,1756.0,Card,253,Akkalkot
+2024-02-08,INV3263,Spare Part,Chain Set,1,493,493.0,Card,69,Solapur
+2025-05-11,INV7238,Spare Part,Pedal Set,3,443,1329.0,Cash,281,Pandharpur
+2024-12-28,INV9504,Spare Part,Tyre Tube Set,2,926,1852.0,Cash,351,Solapur
+2024-03-06,INV4558,Bicycle,Firefox Bad Attitude,1,10587,10587.0,Cash,1893,Pandharpur
+2025-01-28,INV4026,Accessory,Lock,1,508,508.0,Cash,71,Kurduwadi
+2024-03-25,INV5075,Accessory,Cycle Pump,3,328,984.0,Cash,230,Barshi
+2024-08-23,INV7601,Bicycle,Atlas 27T,1,8908,8908.0,Cash,2035,Barshi
+2024-12-17,INV5939,Spare Part,Chain Set,3,321,963.0,Card,130,Pandharpur
+2025-05-10,INV8688,Spare Part,Tyre Tube Set,3,877,2631.0,Cash,435,Kurduwadi
+2024-03-31,INV3790,Bicycle,Hero Octane 700C,3,18795,56385.0,UPI,10792,Solapur
+2024-04-08,INV4872,Spare Part,Pedal Set,1,329,329.0,UPI,42,Solapur
+2025-01-20,INV6091,Bicycle,Avon Lady Star 24T,2,16815,33630.0,UPI,4975,Pandharpur
+2024-08-10,INV6179,Accessory,Water Bottle Holder,2,607,1214.0,Bank Transfer,286,Pandharpur
+2024-12-14,INV4098,Bicycle,Atlas 27T,1,12869,12869.0,UPI,3079,Mohol
+2024-05-12,INV1681,Accessory,Lock,3,837,2511.0,Bank Transfer,496,Kurduwadi
+2024-04-28,INV5536,Spare Part,Pedal Set,1,737,737.0,Cash,82,Mohol
+2024-05-13,INV3068,Spare Part,Pedal Set,3,492,1476.0,Cash,198,Akkalkot
+2025-05-21,INV6234,Accessory,Water Bottle Holder,2,894,1788.0,Card,287,Pandharpur
+2025-02-04,INV2890,Accessory,Lock,1,287,287.0,UPI,67,Solapur
+2024-03-20,INV1019,Bicycle,,3,17900,53700.0,Cash,11948,Kurduwadi
+2024-06-06,INV1740,Spare Part,Tyre Tube Set,2,977,1954.0,Card,316,Pandharpur
+2025-01-21,INV8881,Accessory,Helmet,1,895,895.0,Card,92,Akkalkot
+2024-04-04,INV9645,Bicycle,Avon Lady Star 24T,3,9172,27516.0,Bank Transfer,5290,Kurduwadi
+2024-12-10,INV8810,Bicycle,Firefox Bad Attitude,3,18475,55425.0,Cash,8873,Pandharpur
+2024-06-19,INV9527,Spare Part,Brake Cable,3,466,1398.0,Bank Transfer,176,Barshi
+2025-06-20,INV1708,Bicycle,Avon Lady Star 24T,2,18061,36122.0,UPI,5436,Solapur
+2024-02-08,INV8803,Accessory,Water Bottle Holder,1,446,446.0,Cash,75,Kurduwadi
+2025-04-25,INV8301,Accessory,Hand Gloves,3,812,2436.0,UPI,597,Akkalkot
+2024-10-24,INV6752,Bicycle,Hero Octane 700C,1,8625,8625.0,UPI,1792,Akkalkot
+2024-09-06,INV1317,Bicycle,Avon Lady Star 24T,2,17408,34816.0,Card,5510,Pandharpur
+2024-02-03,INV2736,Spare Part,Chain Set,3,752,2256.0,UPI,421,Mohol
+2025-03-22,INV3638,Bicycle,Hero Octane 700C,3,17928,53784.0,Card,7684,Pandharpur
+2024-07-08,INV2924,Accessory,,2,231,462.0,Cash,48,Kurduwadi
+2025-05-04,INV3219,Spare Part,Pedal Set,2,153,306.0,Cash,50,Mohol
+2024-04-10,INV3682,Spare Part,Brake Cable,2,407,814.0,UPI,147,Barshi
+2024-02-28,INV7930,Accessory,Water Bottle Holder,2,646,1292.0,Card,148,Kurduwadi
+2025-07-02,INV3053,Bicycle,Hero Octane 700C,1,16789,16789.0,Card,3503,Kurduwadi
+2024-12-08,INV8283,Bicycle,Firefox Bad Attitude,2,9194,18388.0,Cash,2199,Akkalkot
+2024-03-03,INV1377,Accessory,Water Bottle Holder,3,578,1734.0,Card,205,Mohol
+2024-09-26,INV9658,Accessory,Lock,3,979,2937.0,Bank Transfer,359,Pandharpur
+2024-06-04,INV9937,Bicycle,Firefox Bad Attitude,2,16174,32348.0,Bank Transfer,4601,Kurduwadi
+2024-03-16,INV3818,Spare Part,,2,970,1940.0,UPI,323,Solapur
+2025-06-16,INV2093,Accessory,Helmet,2,658,1316.0,Bank Transfer,143,Pandharpur
+2025-02-09,INV5770,Spare Part,Pedal Set,1,189,189.0,Bank Transfer,40,Pandharpur
+2024-03-11,INV9470,Bicycle,Atlas 27T,1,11223,11223.0,Bank Transfer,1745,Barshi
+2024-02-13,INV5272,Accessory,Water Bottle Holder,3,290,870.0,Card,197,Solapur
+2024-11-16,INV3528,Bicycle,Hercules Roadeo 29T,1,9351,9351.0,Bank Transfer,1251,Kurduwadi
+2024-05-06,INV1331,Bicycle,Firefox Bad Attitude,3,17668,53004.0,UPI,12488,Kurduwadi
+2025-01-16,INV2728,Spare Part,Brake Cable,2,323,646.0,UPI,69,Mohol
+2024-01-17,INV5690,Spare Part,Tyre Tube Set,1,634,634.0,Card,139,Kurduwadi
+2024-07-20,INV5131,Bicycle,Hercules Roadeo 29T,1,13180,13180.0,Cash,2861,Barshi
+2025-02-23,INV7314,Bicycle,Atlas 27T,1,15733,15733.0,Cash,1988,Kurduwadi
+2025-03-21,INV8159,Spare Part,Pedal Set,3,304,912.0,Cash,120,Akkalkot
+2024-10-28,INV8652,Spare Part,Tyre Tube Set,3,766,2298.0,,399,Solapur
+2024-03-26,INV9784,Accessory,Cycle Pump,1,451,451.0,Card,46,Pandharpur
+2024-11-19,INV9501,Spare Part,Gear Cable,2,793,1586.0,Bank Transfer,231,Solapur
+2024-12-10,INV5863,Accessory,Hand Gloves,2,360,720.0,Cash,165,Kurduwadi
+2024-11-23,INV4454,Bicycle,Hero Octane 700C,3,13419,40257.0,Card,6340,Solapur
+2024-09-22,INV2899,Accessory,,1,397,397.0,UPI,69,Pandharpur
+2024-06-11,INV2142,Accessory,Helmet,3,325,975.0,Cash,139,Kurduwadi
+2025-05-09,INV2685,Spare Part,Gear Cable,2,177,354.0,UPI,77,Barshi
+2025-06-19,INV6324,Spare Part,Gear Cable,3,340,1020.0,Card,115,Barshi
+2024-11-12,INV7811,Accessory,Cycle Pump,3,986,2958.0,Bank Transfer,726,Solapur
+2024-11-22,INV7695,Spare Part,Chain Set,3,752,2256.0,Cash,310,Mohol
+2024-04-04,INV7296,Accessory,Cycle Pump,1,970,970.0,UPI,197,Akkalkot
+2024-03-19,INV2955,Bicycle,Hero Sprint 26T,2,12736,25472.0,Cash,3266,Pandharpur
+2024-09-12,INV7688,Bicycle,Firefox Bad Attitude,2,10150,20300.0,Bank Transfer,4068,Solapur
+2024-03-31,INV7384,Spare Part,Tyre Tube Set,3,187,561.0,UPI,92,Barshi
+2024-05-06,INV5857,Accessory,Hand Gloves,1,412,412.0,UPI,63,Mohol
+2025-04-12,INV9484,Bicycle,Hercules Roadeo 29T,2,19750,39500.0,UPI,-5538,Pandharpur
+2024-05-10,INV4793,Spare Part,Tyre Tube Set,2,378,756.0,Bank Transfer,170,Solapur
+2025-03-05,INV4862,Accessory,Hand Gloves,3,557,1671.0,Cash,235,Akkalkot
+2024-03-26,INV9784,Accessory,Cycle Pump,1,451,451.0,Card,46,Pandharpur
+2024-02-04,INV8105,Spare Part,Tyre Tube Set,3,963,,Card,366,Solapur
+2024-12-17,INV6354,Bicycle,Hero Octane 700C,3,11315,33945.0,Cash,4281,Mohol
+2024-10-10,INV3685,Spare Part,Tyre Tube Set,3,493,1479.0,UPI,262,Solapur
+2024-10-06,INV9658,Accessory,Water Bottle Holder,2,469,938.0,Card,132,Pandharpur
+2024-05-12,INV3392,Accessory,Cycle Pump,1,410,410.0,UPI,79,Akkalkot
+2025-05-11,INV5484,Spare Part,Chain Set,3,565,1695.0,Card,217,Kurduwadi
+2024-03-07,INV7484,Accessory,Hand Gloves,3,791,2373.0,UPI,543,Solapur
+2024-11-09,INV9648,Bicycle,Hero Sprint 26T,1,12541,12541.0,Card,1722,Mohol
+2024-01-17,INV6720,Accessory,Lock,3,220,660.0,Card,154,Mohol
+2024-05-17,INV3314,Spare Part,Brake Cable,1,997,997.0,Cash,175,Mohol
+2024-10-23,INV8717,Spare Part,Chain Set,1,328,328.0,Bank Transfer,43,Pandharpur
+2024-04-04,INV7536,Accessory,Hand Gloves,2,377,754.0,Bank Transfer,177,Kurduwadi
+2024-09-29,INV9705,Spare Part,,1,989,989.0,UPI,143,Kurduwadi
+2024-10-27,INV9204,Accessory,Helmet,2,220,440.0,Cash,101,Kurduwadi
+2025-03-26,INV3140,Spare Part,,2,224,448.0,Cash,71,Mohol
+2025-01-02,INV7746,Bicycle,Atlas 27T,3,15041,45123.0,UPI,4883,Pandharpur
+2024-03-26,INV9738,Bicycle,Avon Lady Star 24T,2,11762,23524.0,UPI,3561,Kurduwadi
+2025-06-30,INV1851,Spare Part,Gear Cable,2,921,1842.0,Bank Transfer,314,Barshi
+2024-07-29,INV7488,Spare Part,Brake Cable,1,725,725.0,Cash,144,Akkalkot
+2024-05-20,INV6451,Bicycle ,Cycle Pump,2,852,1704.0,Card,187,Kurduwadi
+2024-09-10,INV1834,Bicycle,Avon Lady Star 24T,1,17315,17315.0,Card,2084,Barshi
+2025-04-03,INV4814,Spare Part,Tyre Tube Set,1,185,185.0,Bank Transfer,37,Mohol
+2024-03-12,INV3502,Spare Part,Pedal Set,3,550,1650.0,Cash,212,Pandharpur
+2024-11-12,INV4736,Accessory,Lock,2,943,1886.0,Cash,358,Pandharpur
+2025-01-24,INV5224,Spare Part,Pedal Set,3,223,669.0,Cash,111,Kurduwadi
+2025-03-29,INV1796,Accessory,Helmet,2,605,1210.0,Bank Transfer,167,Solapur
+2025-06-09,INV5861,Accessory,Helmet,1,797,797.0,Card,91,Solapur
+2025-06-04,INV4896,Accessory,Helmet,3,770,2310.0,Cash,514,Kurduwadi
+2024-09-19,INV4799,Spare Part,Pedal Set,3,656,1968.0,UPI,284,Barshi
+2024-11-24,INV6524,Accessory,Hand Gloves,1,302,302.0,Bank Transfer,74,Solapur
+2024-02-06,INV1410,Spare Part,Brake Cable,2,233,466.0,Bank Transfer,106,Mohol
+2024-08-28,INV5034,Spare Part,Tyre Tube Set,3,743,2229.0,UPI,454,Kurduwadi
+2024-09-11,INV7161,Accessory,Hand Gloves,2,949,1898.0,Cash,255,Barshi
+2024-12-16,INV2453,Accessory,Lock,1,772,772.0,Cash,118,Pandharpur
+2025-04-03,INV5820,Accessory,Cycle Pump,2,865,1730.0,Bank Transfer,281,Akkalkot
+2024-09-24,INV2760,Accessory,Helmet,3,287,861.0,UPI,211,Barshi
+2024-04-13,INV9974,Bicycle,Atlas 27T,2,15723,31446.0,Bank Transfer,5966,Kurduwadi
+2024-01-22,INV1100,Accessory,Hand Gloves,1,988,988.0,Card,245,Solapur
+2025-03-18,INV3008,Spare Part,Gear Cable,2,396,792.0,Cash,147,Barshi
+2024-12-22,INV4738,Spare Part,Chain Set,2,150,300.0,Bank Transfer,46,Akkalkot
+2025-06-16,INV2602,Spare Part,Pedal Set,1,282,282.0,Cash,66,Pandharpur
+2024-02-11,INV5010,Accessory,Hand Gloves,2,455,910.0,Card,180,Barshi
+2024-07-21,INV2326,Accessory,Water Bottle Holder,2,672,1344.0,Cash,252,Solapur
+2025-04-15,INV6501,Spare Part,Chain Set,1,987,987.0,Card,214,Solapur
+2024-04-23,INV6486,Bicycle,Firefox Bad Attitude,1,16926,16926.0,Cash,2050,Barshi
+2025-02-06,INV7546,Spare Part,,1,314,314.0,Card,58,Barshi
+2025-01-21,INV6882,Accessory,Hand Gloves,2,963,1926.0,Bank Transfer,292,Pandharpur
+2024-01-20,INV4020,Bicycle,Hero Sprint 26T,3,14610,43830.0,Bank Transfer,8426,Akkalkot
+2024-04-30,INV4177,Bicycle,Firefox Bad Attitude,1,13809,13809.0,Card,2203,Solapur
+2025-06-29,INV3525,Spare Part,Pedal Set,1,355,355.0,Cash,58,Barshi
+2024-02-02,INV8618,Spare Part,Pedal Set,1,611,611.0,Bank Transfer,77,Mohol
+2025-03-17,INV8073,Bicycle,Atlas 27T,2,16872,33744.0,UPI,7584,Barshi
+2024-08-20,INV4951,Spare Part,Gear Cable,1,229,229.0,Bank Transfer,24,Barshi
+2024-10-13,INV2806,Bicycle,Hercules Roadeo 29T,3,19398,58194.0,Card,13199,Solapur
+2024-11-15,INV5109,Bicycle,Avon Lady Star 24T,1,12957,12957.0,UPI,2165,Akkalkot
+2024-09-24,INV8200,Bicycle,Atlas 27T,1,14083,14083.0,Cash,1944,Akkalkot
+2024-10-03,INV5224,Bicycle,Hero Sprint 26T,2,14577,29154.0,Card,3143,Akkalkot
+2024-08-04,INV2429,Spare Part,Brake Cable,1,864,864.0,Cash,180,Akkalkot
+2024-05-15,INV4706,Spare Part,Gear Cable,2,868,1736.0,Bank Transfer,176,Solapur
+2024-04-27,INV6104,Accessory,Helmet,2,395,790.0,UPI,84,Solapur
+2024-05-02,INV1714,Bicycle,Hero Octane 700C,3,8807,26421.0,Bank Transfer,6549,Pandharpur
+2024-05-16,INV9982,Bicycle,Hero Octane 700C,3,8442,25326.0,Card,5179,Mohol
+2024-11-11,INV4550,Bicycle,,3,8277,24831.0,Card,3061,Mohol
+2025-06-29,INV1800,Bicycle,Hero Octane 700C,2,9240,18480.0,Card,4103,Barshi
+2024-02-05,INV8429,Spare Part,Brake Cable,1,177,177.0,UPI,29,Akkalkot
+2024-12-12,INV8124,Spare Part,Gear Cable,2,684,1368.0,,293,Barshi
+2025-01-10,INV6649,Bicycle,Hero Octane 700C,3,9972,29916.0,UPI,3241,Mohol
+2025-02-14,INV2403,Spare Part,Brake Cable,3,383,1149.0,Card,235,Barshi
+2025-06-07,INV4087,Bicycle,Atlas 27T,2,13768,27536.0,Card,3052,Kurduwadi
+2024-09-07,INV4103,Spare Part,Pedal Set,3,539,1617.0,UPI,208,Solapur
+2025-02-02,INV2285,Bicycle,Hero Octane 700C,3,10917,32751.0,Card,5043,Solapur
+2024-05-13,INV1606,Spare Part,Tyre Tube Set,2,912,1824.0,UPI,251,Mohol
+2025-05-25,INV8665,Spare Part,Tyre Tube Set,1,421,421.0,Card,53,Pandharpur
+2025-06-27,INV2086,Accessory,Cycle Pump,2,704,1408.0,Bank Transfer,178,Solapur
+2024-04-13,INV5575,Spare Part,Tyre Tube Set,2,779,1558.0,Card,319,Solapur
+2024-05-25,INV3873,Bicycle,Avon Lady Star 24T,3,8006,24018.0,Card,2590,Pandharpur
+2024-11-26,INV2942,Bicycle,Hero Octane 700C,1,12690,12690.0,Bank Transfer,2296,Solapur
+2025-01-24,INV6234,Spare Part,Brake Cable,1,469,469.0,Bank Transfer,109,Kurduwadi
+2024-01-26,INV9991,Accessory,Water Bottle Holder,3,911,2733.0,Cash,520,Barshi
+2025-04-25,INV1770,Spare Part,,2,157,314.0,UPI,63,Mohol
+2025-05-06,INV7785,Bicycle,Firefox Bad Attitude,3,13737,41211.0,Bank Transfer,6877,Mohol
+2024-04-14,INV7211,Accessory,Cycle Pump,2,241,482.0,Card,-98,Mohol
+2024-01-26,INV2347,Spare Part,Tyre Tube Set,2,874,1748.0,Cash,258,Mohol
+2024-10-25,INV4332,Spare Part,Tyre Tube Set,3,446,1338.0,Bank Transfer,287,Pandharpur
+2024-04-04,INV3006,Spare Part,Brake Cable,3,310,930.0,Cash,152,Akkalkot
+2024-01-08,INV1234,Spare Part,Tyre Tube Set,1,152,152.0,Bank Transfer,24,Pandharpur
+2025-06-01,INV9642,Bicycle,Hero Octane 700C,1,15561,15561.0,UPI,3397,Kurduwadi
+2025-05-31,INV3105,Spare Part,Chain Set,3,345,1035.0,Bank Transfer,227,Barshi
+2025-03-12,INV6804,Bicycle,Hero Octane 700C,1,19700,19700.0,Card,4306,Akkalkot
+2025-06-04,INV8347,Bicycle ,Brake Cable,2,255,510.0,UPI,104,Kurduwadi
+2024-06-06,INV8661,Accessory,Cycle Pump,1,302,302.0,Bank Transfer,64,Pandharpur
+2025-03-28,INV7184,Bicycle,Hero Sprint 26T,1,9014,9014.0,UPI,1075,Pandharpur
+2024-07-13,INV3658,Bicycle,Atlas 27T,1,18410,18410.0,Bank Transfer,4295,Kurduwadi
+2024-06-28,INV9807,Spare Part,Tyre Tube Set,1,278,278.0,Cash,41,Akkalkot
+2024-07-13,INV2588,Bicycle,Atlas 27T,3,11574,34722.0,Card,6099,Kurduwadi
+2025-01-21,INV5491,Spare Part,Gear Cable,1,960,960.0,UPI,113,Akkalkot
+2025-05-27,INV4059,Bicycle,Firefox Bad Attitude,3,12002,36006.0,Bank Transfer,7707,Kurduwadi
+2025-03-10,INV1735,Accessory,,3,897,2691.0,Bank Transfer,605,Solapur
+2024-12-31,INV3287,Spare Part,Gear Cable,1,313,313.0,UPI,41,Barshi
+2025-04-07,INV5961,Bicycle,Avon Lady Star 24T,1,18348,18348.0,Card,-2613,Mohol
+2024-05-10,INV6647,Bicycle,Avon Lady Star 24T,1,17138,17138.0,,3594,Akkalkot
+2025-05-03,INV1202,Spare Part,Chain Set,3,653,1959.0,,275,Akkalkot
+2025-06-08,INV5181,Spare Part,Brake Cable,2,378,756.0,Bank Transfer,167,Solapur
+2025-01-30,INV3635,Spare Part,Chain Set,2,892,1784.0,Cash,186,Pandharpur
+2024-06-11,INV2142,Accessory,Helmet,3,325,975.0,Cash,139,Kurduwadi
+2024-07-19,INV6596,Bicycle,Atlas 27T,3,18493,55479.0,Bank Transfer,7071,Akkalkot
+2024-09-16,INV7030,Bicycle,Avon Lady Star 24T,2,10306,20612.0,UPI,2274,Mohol
+2024-05-07,INV4693,Accessory,Helmet,3,703,2109.0,Cash,382,Akkalkot
+2025-03-24,INV1153,Accessory,Water Bottle Holder,3,279,837.0,Card,110,Solapur
+2025-01-08,INV9062,Spare Part,Chain Set,1,918,918.0,Bank Transfer,225,Pandharpur
+2025-05-31,INV9733,Bicycle,Firefox Bad Attitude,3,10356,31068.0,Card,6825,Akkalkot
+2024-03-14,INV3680,Bicycle,Hercules Roadeo 29T,1,17816,17816.0,Cash,3079,Kurduwadi
+2024-07-08,INV5596,Spare Part,Gear Cable,1,639,,Card,131,Pandharpur
+2024-07-28,INV7696,Bicycle,Hero Sprint 26T,2,18850,37700.0,,9019,Barshi
+2024-07-15,INV7087,Accessory,Lock,2,256,512.0,Card,121,Barshi
+2025-05-24,INV3880,Accessory,Lock,2,535,1070.0,Card,145,Mohol
+2024-09-21,INV9079,Bicycle,Atlas 27T,3,8197,24591.0,Cash,5190,Pandharpur
+2024-07-22,INV4790,Bicycle,Atlas 27T,3,12141,36423.0,Card,5238,Pandharpur
+2025-04-12,INV7549,Bicycle ,Lock,3,663,1989.0,UPI,224,Barshi
+2024-10-09,INV1560,Accessory,Cycle Pump,3,443,1329.0,Cash,154,Barshi
+2025-03-06,INV9637,Accessory,Helmet,2,906,1812.0,Bank Transfer,408,Solapur
+2025-04-08,INV4866,Bicycle,Hero Sprint 26T,3,9994,29982.0,Card,4023,Pandharpur
+2024-02-06,INV4153,Accessory,Helmet,1,763,763.0,Card,120,Kurduwadi
+2024-12-22,INV6671,Spare Part,Gear Cable,2,443,886.0,Bank Transfer,136,Kurduwadi
+2025-04-13,INV3304,Spare Part,,2,358,716.0,Cash,175,Barshi
+2024-05-14,INV8311,Accessory,Helmet,1,320,,Cash,62,Kurduwadi
+2025-02-21,INV2601,Accessory,Helmet,1,676,676.0,Bank Transfer,101,Solapur
+2025-06-06,INV3760,Spare Part,Brake Cable,3,611,1833.0,UPI,207,Kurduwadi
+2024-01-12,INV7431,Accessory,Lock,1,969,969.0,UPI,176,Akkalkot
+2025-05-11,INV5532,Bicycle,Firefox Bad Attitude,2,18053,36106.0,UPI,8244,Kurduwadi
+2024-08-23,INV9427,Bicycle,Avon Lady Star 24T,3,10137,30411.0,Cash,4526,Mohol
+2024-06-18,INV8003,Spare Part,Brake Cable,3,932,2796.0,Bank Transfer,605,Pandharpur
+2025-04-01,INV2508,Spare Part,Gear Cable,3,848,2544.0,Cash,348,Barshi
+2024-11-14,INV8739,Accessory,Lock,2,471,942.0,Bank Transfer,155,Solapur
+2024-11-15,INV9438,Spare Part,Brake Cable,1,494,494.0,Card,96,Solapur
+2024-05-20,INV8502,Bicycle,Firefox Bad Attitude,1,9895,9895.0,Bank Transfer,1850,Akkalkot
+2024-12-25,INV3999,Spare Part,Gear Cable,3,381,1143.0,Cash,219,Akkalkot
+2025-01-06,INV7439,Bicycle,Hero Sprint 26T,2,16569,33138.0,Bank Transfer,7754,Solapur
+2025-06-20,INV1708,Bicycle,Avon Lady Star 24T,2,18061,36122.0,UPI,5436,Solapur
+2025-04-27,INV5389,Bicycle,Atlas 27T,3,8713,26139.0,Bank Transfer,3205,Solapur
+2024-02-27,INV1124,Bicycle,,1,18079,18079.0,Cash,2768,Kurduwadi
+2024-03-26,INV9401,Accessory,Hand Gloves,3,922,2766.0,Bank Transfer,522,Akkalkot
+2024-12-29,INV8469,Accessory,Helmet,2,779,1558.0,Cash,301,Mohol
+2025-03-25,INV4792,Bicycle,Hero Octane 700C,3,12798,38394.0,Cash,4538,Mohol
+2024-09-29,INV9705,Spare Part,,1,989,989.0,UPI,143,Kurduwadi
+2025-01-02,INV2146,Accessory,Water Bottle Holder,1,268,268.0,Bank Transfer,46,Kurduwadi
+2025-06-13,INV5031,Spare Part,Pedal Set,3,492,1476.0,Cash,353,Akkalkot
+2024-03-29,INV4615,Accessory,Cycle Pump,2,489,978.0,Cash,138,Kurduwadi
+2025-03-04,INV4504,Spare Part,Pedal Set,2,326,652.0,UPI,103,Mohol
+2025-05-21,INV5498,Bicycle,Hero Sprint 26T,2,11533,23066.0,Cash,5017,Barshi
+2025-01-10,INV1420,Spare Part,Pedal Set,3,891,2673.0,Bank Transfer,500,Pandharpur
+2024-12-09,INV7254,Accessory,Hand Gloves,1,523,523.0,Card,122,Kurduwadi
+2025-05-02,INV2361,Spare Part,Gear Cable,2,592,1184.0,Bank Transfer,144,Barshi
+2025-03-08,INV3324,Bicycle,Firefox Bad Attitude,1,9985,9985.0,UPI,1917,Mohol
+2024-03-18,INV4993,Spare Part,Gear Cable,1,821,821.0,Card,122,Mohol
+2025-05-20,INV6245,Spare Part,Chain Set,1,964,964.0,Bank Transfer,198,Barshi
+2024-12-30,INV1407,Bicycle,Firefox Bad Attitude,3,18510,55530.0,UPI,13426,Pandharpur
+2025-06-06,INV3953,Accessory,Helmet,3,928,2784.0,Card,526,Barshi
+2024-01-05,INV7624,Bicycle,Atlas 27T,2,19731,39462.0,Card,9832,Solapur
+2025-04-03,INV4367,Bicycle,Hercules Roadeo 29T,2,9421,18842.0,UPI,4644,Kurduwadi
+2024-09-29,INV5779,Bicycle,Firefox Bad Attitude,3,12388,37164.0,,3983,Solapur
+2024-06-30,INV4295,Bicycle,Firefox Bad Attitude,2,16372,32744.0,Bank Transfer,7361,Akkalkot
+2024-07-14,INV4573,Accessory,Lock,3,436,1308.0,UPI,304,Mohol
+2025-03-09,INV9055,Accessory,Hand Gloves,2,839,1678.0,Bank Transfer,360,Pandharpur
+2024-04-11,INV4261,Bicycle,Atlas 27T,1,13144,13144.0,Cash,2338,Solapur
+2024-09-30,INV4476,Bicycle,Avon Lady Star 24T,1,8240,,Cash,1040,Mohol
+2024-12-21,INV9780,Accessory,Lock,2,660,1320.0,Bank Transfer,188,Solapur
+2025-05-01,INV1709,Bicycle ,Pedal Set,2,436,872.0,Bank Transfer,191,Kurduwadi
+2025-04-28,INV9158,Accessory,Cycle Pump,2,627,1254.0,Cash,168,Pandharpur
+2024-02-25,INV7518,Bicycle,Atlas 27T,1,14921,14921.0,Card,3078,Kurduwadi
+2024-11-15,INV8740,Bicycle,Hercules Roadeo 29T,1,11668,11668.0,UPI,1283,Akkalkot
+2024-07-25,INV2259,Accessory,Cycle Pump,3,930,2790.0,UPI,413,Pandharpur
+2024-07-30,INV7933,Spare Part,Gear Cable,1,465,465.0,Card,61,Kurduwadi
+2025-03-14,INV2306,Bicycle,Hero Sprint 26T,3,12023,36069.0,UPI,3795,Barshi
+2024-05-12,INV9936,Spare Part,Chain Set,3,619,1857.0,Bank Transfer,455,Akkalkot
+2024-05-08,INV2089,Accessory,Cycle Pump,3,993,2979.0,UPI,656,Pandharpur
+2024-04-04,INV3422,Spare Part,Chain Set,1,427,427.0,Bank Transfer,105,Barshi
+2025-02-01,INV6384,Accessory,Water Bottle Holder,2,307,614.0,Bank Transfer,81,Akkalkot
+2024-05-13,INV2305,Accessory,Hand Gloves,2,817,1634.0,Card,378,Solapur
+2024-06-13,INV6005,Spare Part,Chain Set,2,487,974.0,UPI,213,Barshi
+2024-11-27,INV8500,Accessory,Cycle Pump,1,461,461.0,UPI,73,Mohol
+2025-05-13,INV7832,Spare Part,Pedal Set,3,519,1557.0,Card,336,Kurduwadi
+2024-01-29,INV4647,Bicycle,Atlas 27T,2,8776,17552.0,Card,2423,Solapur
+2024-04-26,INV4450,Bicycle,Atlas 27T,3,18206,54618.0,Card,11204,Kurduwadi
+2024-11-07,INV8650,Bicycle,Atlas 27T,1,16595,16595.0,UPI,3302,Solapur
+2025-01-11,INV6300,Bicycle,Atlas 27T,1,8069,8069.0,Bank Transfer,2001,Pandharpur
+2025-06-27,INV3839,Accessory,Helmet,1,761,761.0,UPI,106,Barshi
+2024-03-26,INV9688,Bicycle,Firefox Bad Attitude,1,10863,10863.0,Cash,1997,Kurduwadi
+2025-02-25,INV9419,Bicycle,Atlas 27T,2,17385,34770.0,Bank Transfer,5223,Mohol
+2024-12-22,INV7844,Spare Part,Tyre Tube Set,1,555,555.0,Card,97,Akkalkot
+2025-05-14,INV3920,Bicycle,Hero Sprint 26T,2,18463,36926.0,Cash,4843,Pandharpur
+2024-11-22,INV7064,Spare Part,Brake Cable,3,951,2853.0,UPI,507,Mohol
+2024-03-13,INV1860,Spare Part,Tyre Tube Set,2,496,992.0,UPI,206,Barshi
+2024-06-29,INV3600,Bicycle,Hero Octane 700C,2,10518,21036.0,Card,3017,Kurduwadi
+2024-07-21,INV4256,Spare Part,Chain Set,1,618,618.0,Bank Transfer,116,Akkalkot
+2025-04-20,INV6442,Accessory,,3,463,1389.0,Cash,290,Pandharpur
+2024-12-27,INV7281,Bicycle,Hero Octane 700C,2,13148,26296.0,Card,4973,Barshi
+2024-12-31,INV8856,Accessory,Lock,1,303,303.0,Card,40,Pandharpur
+2025-06-02,INV1066,Accessory,Water Bottle Holder,2,889,1778.0,UPI,232,Solapur
+2025-05-18,INV4529,Bicycle,Avon Lady Star 24T,2,10372,20744.0,UPI,2231,Kurduwadi
+2024-06-10,INV9367,Spare Part,Brake Cable,1,533,533.0,UPI,92,Kurduwadi
+2025-04-25,INV1831,Accessory,Lock,1,864,864.0,Cash,127,Mohol
+2024-05-23,INV4541,Bicycle,Hercules Roadeo 29T,3,14560,43680.0,UPI,6110,Mohol
+2024-02-19,INV1919,Spare Part,Brake Cable,1,734,734.0,Cash,74,Pandharpur
+2024-05-02,INV8365,Spare Part,Tyre Tube Set,2,680,1360.0,UPI,266,Mohol
+2025-06-29,INV7727,Bicycle,Hero Sprint 26T,2,19760,39520.0,Cash,8948,Kurduwadi
+2025-06-01,INV6274,Spare Part,Gear Cable,1,550,550.0,UPI,56,Solapur
+2024-07-31,INV8073,Accessory,Lock,1,352,352.0,Card,66,Kurduwadi
+2024-09-07,INV2108,Spare Part,Pedal Set,1,266,266.0,Bank Transfer,61,Kurduwadi
+2024-11-26,INV3748,Spare Part,Brake Cable,1,376,376.0,Bank Transfer,74,Mohol
+2024-05-28,INV8865,Accessory,Water Bottle Holder,2,863,1726.0,Card,203,Barshi
+2024-04-25,INV3939,Bicycle,Atlas 27T,1,9286,9286.0,Card,1145,Pandharpur
+2024-10-21,INV2233,Bicycle,Atlas 27T,1,9648,9648.0,Cash,1380,Barshi
+2024-06-28,INV1625,Accessory,Cycle Pump,2,794,1588.0,UPI,270,Solapur
+2024-09-14,INV2710,Bicycle,Hercules Roadeo 29T,2,14956,29912.0,Cash,5281,Akkalkot
+2025-05-28,INV3139,Bicycle,Firefox Bad Attitude,3,19894,59682.0,Bank Transfer,13643,Kurduwadi
+2025-07-01,INV8424,Bicycle,Hercules Roadeo 29T,2,14754,29508.0,UPI,5525,Pandharpur
+2024-05-10,INV9896,Spare Part,Tyre Tube Set,3,519,1557.0,Cash,344,Pandharpur
+2024-04-19,INV6303,Spare Part,Chain Set,3,979,2937.0,Card,633,Pandharpur
+2024-01-13,INV9723,Spare Part,Brake Cable,3,642,1926.0,Bank Transfer,288,Kurduwadi
+2024-04-22,INV4051,Accessory,Cycle Pump,2,429,858.0,Cash,104,Akkalkot
+2024-11-09,INV3472,Accessory,Water Bottle Holder,1,615,615.0,Card,78,Barshi
+2024-01-19,INV9992,Bicycle,Hero Octane 700C,2,14263,28526.0,Bank Transfer,5705,Mohol
+2025-06-27,INV3746,Bicycle,Hero Octane 700C,2,13005,26010.0,Cash,6360,Solapur
+2025-02-24,INV9292,Spare Part,Chain Set,3,954,2862.0,Bank Transfer,460,Kurduwadi
+2025-04-27,INV2786,Bicycle,Hero Sprint 26T,1,12645,12645.0,Cash,2694,Pandharpur
+2024-10-27,INV6258,Spare Part,Chain Set,3,317,951.0,Bank Transfer,223,Solapur
+2025-05-14,INV9281,Bicycle,Firefox Bad Attitude,1,13091,13091.0,Bank Transfer,1553,Solapur
+2025-01-04,INV3083,Spare Part,Pedal Set,2,272,544.0,Card,89,Akkalkot
+2024-09-18,INV8507,Bicycle,Avon Lady Star 24T,3,9569,28707.0,Bank Transfer,4401,Akkalkot
+2025-06-23,INV1905,Bicycle,,3,14450,43350.0,Cash,9813,Barshi
+2025-05-05,INV3245,Accessory,Hand Gloves,1,693,693.0,Card,103,Mohol
+2025-01-02,INV4545,Bicycle,Avon Lady Star 24T,1,9398,9398.0,UPI,2102,Barshi
+2024-08-09,INV5448,Bicycle,Atlas 27T,1,18354,18354.0,,3764,Mohol
+2024-12-14,INV8154,Accessory,Hand Gloves,2,249,498.0,Cash,107,Mohol
+2024-02-20,INV5376,Spare Part,Tyre Tube Set,3,844,2532.0,Card,332,Solapur
+2025-06-28,INV9120,Accessory,,3,368,,Cash,203,Kurduwadi
+2024-07-13,INV8964,Accessory,Helmet,2,349,698.0,Cash,91,Mohol
+2024-11-27,INV2153,Bicycle,Hero Sprint 26T,1,12829,12829.0,Card,3151,Akkalkot
+2024-05-06,INV5857,Accessory,Hand Gloves,1,412,412.0,UPI,63,Mohol
+2025-05-20,INV9126,Accessory,,1,805,805.0,Card,156,Mohol
+2024-03-16,INV2288,Accessory,Helmet,2,277,554.0,Card,67,Akkalkot
+2024-10-19,INV4854,Accessory,Helmet,3,733,2199.0,UPI,275,Solapur
+2024-03-30,INV6943,Bicycle,Hercules Roadeo 29T,2,16154,32308.0,Bank Transfer,5248,Pandharpur
+2025-02-19,INV9847,Bicycle,Avon Lady Star 24T,1,9533,9533.0,UPI,1368,Solapur
+2024-06-21,INV7664,Bicycle,Firefox Bad Attitude,3,12916,38748.0,Cash,9280,Kurduwadi
+2025-05-05,INV9884,Accessory,Lock,2,344,688.0,Cash,158,Kurduwadi
+2024-09-22,INV6859,Spare Part,Chain Set,3,464,1392.0,Card,179,Akkalkot
+2025-05-30,INV7079,Accessory,Lock,1,687,687.0,Card,103,Pandharpur
+2024-07-11,INV5558,Spare Part,Brake Cable,3,763,2289.0,UPI,412,Solapur
+2025-01-12,INV8590,Accessory,Hand Gloves,2,320,640.0,Card,96,Pandharpur
+2025-05-20,INV5267,Bicycle,Hero Octane 700C,3,11264,33792.0,Card,6413,Solapur
+2024-10-26,INV9724,Bicycle,Avon Lady Star 24T,2,13997,27994.0,UPI,4212,Pandharpur
+2024-02-28,INV2375,Accessory,Lock,1,530,530.0,Cash,108,Akkalkot
+2025-06-28,INV3500,Accessory,Lock,2,883,1766.0,Cash,-230,Solapur
+2025-05-04,INV4045,Spare Part,,1,639,639.0,Bank Transfer,97,Akkalkot
+2025-05-05,INV4119,Bicycle ,Hand Gloves,2,332,664.0,Bank Transfer,162,Barshi
+2024-09-29,INV6425,Spare Part,Pedal Set,2,355,710.0,UPI,101,Barshi
+2025-05-26,INV8162,Bicycle,Hercules Roadeo 29T,3,14410,43230.0,UPI,8442,Barshi
+2024-02-13,INV9300,Bicycle,,2,14051,28102.0,Cash,4639,Kurduwadi
+2025-05-27,INV7015,Accessory,Water Bottle Holder,2,701,1402.0,Cash,327,Kurduwadi
+2024-01-17,INV9432,Spare Part,Pedal Set,2,713,1426.0,Card,169,Solapur
+2025-06-24,INV4916,Accessory,Helmet,1,892,892.0,UPI,193,Pandharpur
+2025-02-18,INV7460,Bicycle,Firefox Bad Attitude,3,16720,50160.0,UPI,5027,Mohol
+2025-05-28,INV3802,Accessory,Lock,3,869,2607.0,UPI,313,Pandharpur
+2024-04-19,INV1575,Accessory,Water Bottle Holder,3,798,2394.0,Card,337,Akkalkot
+2024-08-13,INV9932,Spare Part,,1,646,646.0,Card,137,Mohol
+2024-10-22,INV7750,Spare Part,Pedal Set,2,414,828.0,Cash,206,Solapur
+2024-05-19,INV7284,Accessory,Helmet,2,860,1720.0,Card,380,Pandharpur
+2024-05-20,INV7000,Spare Part,Tyre Tube Set,1,743,743.0,Cash,142,Barshi
+2024-04-17,INV5907,Bicycle,Hercules Roadeo 29T,2,11411,22822.0,Bank Transfer,5705,Barshi
+2025-03-08,INV6660,Accessory,Lock,1,603,603.0,Bank Transfer,82,Kurduwadi
+2025-07-04,INV5715,Spare Part,Chain Set,2,898,1796.0,UPI,262,Solapur
+2024-03-08,INV6320,Bicycle,Hero Octane 700C,3,16774,50322.0,Card,11247,Pandharpur
+2024-08-22,INV8729,Accessory,Helmet,3,658,1974.0,Cash,431,Akkalkot
+2024-11-14,INV3020,Spare Part,Pedal Set,1,714,714.0,UPI,90,Pandharpur
+2024-07-30,INV9607,Accessory,Cycle Pump,1,629,629.0,Card,113,Akkalkot
+2024-07-16,INV7706,Bicycle,Firefox Bad Attitude,1,8848,8848.0,Card,1276,Solapur
+2024-09-20,INV5790,Spare Part,Brake Cable,1,171,171.0,Bank Transfer,19,Solapur
+2024-01-20,INV1396,Accessory,Water Bottle Holder,3,694,2082.0,Cash,460,Kurduwadi
+2024-06-02,INV3684,Accessory,Helmet,2,468,936.0,Bank Transfer,95,Akkalkot
+2025-04-28,INV7662,Bicycle,Atlas 27T,1,17711,17711.0,Cash,4305,Pandharpur
+2024-07-28,INV5337,Accessory,Cycle Pump,2,201,402.0,UPI,92,Kurduwadi
+2024-08-08,INV1337,Accessory,Cycle Pump,1,348,348.0,UPI,63,Mohol
+2024-05-07,INV7750,Accessory,Helmet,1,851,851.0,Cash,181,Pandharpur
+2024-04-13,INV1231,Accessory,Water Bottle Holder,3,624,1872.0,Card,431,Barshi
+2024-11-11,INV5114,Bicycle,Avon Lady Star 24T,3,11942,35826.0,Bank Transfer,5378,Pandharpur
+2025-05-20,INV3500,Bicycle,Hercules Roadeo 29T,3,17214,51642.0,Bank Transfer,8858,Barshi
+2024-06-17,INV8258,Accessory,Lock,2,687,1374.0,Bank Transfer,180,Solapur
+2024-08-18,INV3684,Bicycle,Hero Octane 700C,2,9488,18976.0,Cash,3478,Solapur
+2025-03-19,INV7396,Spare Part,Chain Set,3,431,1293.0,Bank Transfer,206,Akkalkot
+2024-08-08,INV1337,Accessory,Cycle Pump,1,348,348.0,UPI,63,Mohol
+2025-06-14,INV4252,Spare Part,Tyre Tube Set,1,477,477.0,Bank Transfer,57,Pandharpur
+2024-08-27,INV1360,Spare Part,Chain Set,3,625,1875.0,Bank Transfer,467,Barshi
+2024-07-04,INV8956,Spare Part,Tyre Tube Set,3,646,1938.0,Cash,223,Pandharpur
+2024-06-08,INV5927,Spare Part,,2,346,692.0,Card,118,Kurduwadi
+2025-01-20,INV1337,Bicycle,Hero Octane 700C,3,10972,32916.0,,5609,Pandharpur
+2024-12-12,INV2959,Bicycle,Hero Sprint 26T,2,16374,32748.0,Card,4910,Barshi
+2024-05-21,INV5714,Accessory,Helmet,3,436,1308.0,Bank Transfer,175,Barshi
+2024-06-25,INV9178,Accessory,Lock,2,488,976.0,UPI,222,Pandharpur
+2024-01-22,INV3251,Spare Part,Chain Set,3,520,1560.0,UPI,319,Akkalkot
+2024-04-19,INV3293,Bicycle,Hercules Roadeo 29T,3,8436,25308.0,Bank Transfer,5575,Pandharpur
+2024-06-07,INV2029,Bicycle,Hercules Roadeo 29T,3,16624,49872.0,UPI,7061,Akkalkot
+2024-05-07,INV8974,Accessory,Helmet,3,771,2313.0,UPI,258,Pandharpur
+2025-02-16,INV7503,Spare Part,Pedal Set,1,314,,Cash,60,Mohol
+2024-12-14,INV8599,Spare Part,Pedal Set,2,887,1774.0,Card,277,Mohol
+2024-09-04,INV8547,Bicycle,Hero Octane 700C,1,17582,17582.0,UPI,3682,Solapur
+2025-05-19,INV2167,Accessory,Water Bottle Holder,1,817,817.0,Bank Transfer,85,Pandharpur
+2025-02-06,INV6138,Spare Part,,2,745,1490.0,Cash,287,Kurduwadi
+2024-12-01,INV7041,Bicycle,Firefox Bad Attitude,3,12160,36480.0,UPI,4861,Barshi
+2025-05-17,INV5585,Accessory,Cycle Pump,2,789,1578.0,UPI,178,Akkalkot
+2024-08-26,INV5967,Spare Part,Gear Cable,3,948,2844.0,Cash,603,Barshi
+2025-04-03,INV6669,Accessory,Hand Gloves,2,801,1602.0,Cash,338,Mohol
+2025-04-07,INV1007,Spare Part,Brake Cable,3,852,2556.0,Bank Transfer,567,Kurduwadi
+2024-05-03,INV2112,Accessory,Lock,2,414,828.0,Cash,202,Solapur
+2024-12-19,INV9819,Accessory,Cycle Pump,2,393,786.0,UPI,106,Pandharpur
+2025-02-26,INV7246,Accessory,Cycle Pump,1,321,321.0,,60,Akkalkot
+2025-01-02,INV1962,Bicycle,Firefox Bad Attitude,3,8670,26010.0,Bank Transfer,4812,Akkalkot
+2024-04-12,INV9402,Spare Part,Pedal Set,3,997,2991.0,Card,459,Akkalkot
+2025-06-16,INV3092,Accessory,Water Bottle Holder,1,311,311.0,,53,Barshi
+2025-04-10,INV6581,Accessory,Helmet,1,727,727.0,,90,Akkalkot
+2024-06-01,INV7441,Spare Part,Brake Cable,3,889,2667.0,Card,319,Mohol
+2024-04-29,INV2133,Bicycle,Firefox Bad Attitude,3,10796,32388.0,Cash,6061,Kurduwadi
+2024-01-21,INV7970,Accessory,Water Bottle Holder,3,372,1116.0,Card,267,Mohol
+2024-07-24,INV3271,Spare Part,Tyre Tube Set,1,708,708.0,Bank Transfer,122,Akkalkot
+2024-02-29,INV1315,Bicycle,Avon Lady Star 24T,3,17809,53427.0,Cash,11571,Solapur
+2024-04-11,INV3368,Bicycle,Hercules Roadeo 29T,2,16106,32212.0,Cash,7443,Barshi
+2024-04-28,INV6496,Accessory,Cycle Pump,3,969,2907.0,Bank Transfer,530,Akkalkot
+2024-08-25,INV6967,Bicycle,Hero Sprint 26T,3,18687,56061.0,UPI,11668,Akkalkot
+2024-05-25,INV1322,Bicycle,Firefox Bad Attitude,3,12830,38490.0,Card,8845,Barshi
+2025-06-15,INV3120,Spare Part,Gear Cable,1,759,759.0,UPI,145,Kurduwadi
+2024-10-25,INV8553,Spare Part,Gear Cable,2,351,702.0,Bank Transfer,107,Mohol
+2024-08-26,INV4835,Accessory,Hand Gloves,1,531,531.0,UPI,126,Mohol
+2024-06-12,INV2401,Spare Part,Pedal Set,3,509,1527.0,Card,325,Akkalkot
+2024-12-18,INV6710,Accessory,Lock,1,771,771.0,Card,143,Mohol
+2024-10-30,INV1395,Spare Part,Tyre Tube Set,3,539,1617.0,Cash,267,Solapur
+2024-10-05,INV4424,Bicycle,Atlas 27T,2,12137,24274.0,Card,5670,Barshi
+2024-03-22,INV1772,Bicycle,Avon Lady Star 24T,1,18260,18260.0,Cash,2165,Akkalkot
+2024-03-02,INV2653,Accessory,Lock,3,539,1617.0,Card,238,Mohol
+2024-12-30,INV9929,Bicycle,Firefox Bad Attitude,1,19620,19620.0,Bank Transfer,3351,Solapur
+2025-04-22,INV4390,Spare Part,Brake Cable,3,337,1011.0,Card,209,Akkalkot
+2024-12-29,INV4418,Bicycle,Avon Lady Star 24T,1,16410,16410.0,Cash,2075,Mohol
+2025-02-12,INV4369,Accessory,Hand Gloves,3,852,2556.0,UPI,442,Barshi
+2024-05-18,INV8173,Spare Part,Chain Set,2,294,588.0,Bank Transfer,83,Kurduwadi
+2024-04-23,INV7294,Bicycle ,Hero Octane 700C,3,8005,24015.0,Card,3470,Barshi
+2024-03-25,INV6484,Bicycle,Hercules Roadeo 29T,2,17655,35310.0,Bank Transfer,7478,Akkalkot
+2025-03-30,INV3761,Accessory,Lock,2,842,1684.0,Card,187,Kurduwadi
+2024-06-14,INV8661,Accessory,Helmet,3,526,1578.0,Card,181,Pandharpur
+2024-03-23,INV3518,Accessory,,2,402,804.0,Cash,109,Akkalkot
+2024-04-19,INV1575,Accessory,Water Bottle Holder,3,798,2394.0,Card,337,Akkalkot
+2025-01-31,INV4465,Bicycle,Avon Lady Star 24T,1,9368,9368.0,UPI,1460,Akkalkot
+2024-02-23,INV5590,Accessory,,3,636,1908.0,Cash,471,Barshi
+2024-11-06,INV7164,Accessory,Water Bottle Holder,1,977,977.0,Bank Transfer,160,Solapur
+2024-06-18,INV1092,Bicycle,Atlas 27T,2,19168,38336.0,UPI,5411,Akkalkot
+2024-09-20,INV5031,Accessory,Helmet,2,249,,Card,110,Akkalkot
+2024-09-15,INV2908,Bicycle,Atlas 27T,1,9565,9565.0,Cash,1887,Kurduwadi
+2025-06-10,INV7918,Bicycle ,Hand Gloves,3,836,2508.0,UPI,466,Kurduwadi
+2024-09-20,INV9457,Bicycle,Hero Octane 700C,1,11714,11714.0,UPI,2339,Pandharpur
+2024-08-01,INV5105,Bicycle ,Hand Gloves,3,889,2667.0,Cash,423,Solapur
+2025-06-12,INV8460,Bicycle,Atlas 27T,3,14354,43062.0,Bank Transfer,9415,Barshi
+2025-05-15,INV2884,Spare Part,Tyre Tube Set,1,423,423.0,Bank Transfer,71,Barshi
+2025-06-16,INV9691,Bicycle,Hercules Roadeo 29T,3,14955,44865.0,UPI,7382,Mohol
+2024-07-08,INV5596,Spare Part,Gear Cable,1,639,,Card,131,Pandharpur
+2024-07-27,INV8631,Accessory,Hand Gloves,1,295,295.0,Card,63,Pandharpur
+2025-01-22,INV4409,Spare Part,Chain Set,2,684,1368.0,Card,156,Kurduwadi
+2025-03-14,INV7760,Spare Part,Gear Cable,2,288,576.0,Cash,108,Barshi
+2024-05-19,INV9679,Spare Part,Chain Set,2,910,1820.0,Card,355,Mohol
+2024-02-08,INV8957,Spare Part,Tyre Tube Set,2,164,328.0,Card,34,Mohol
+2024-10-05,INV7135,Accessory,Lock,3,517,1551.0,Card,353,Barshi
+2024-04-09,INV3690,Bicycle,Hero Sprint 26T,3,19655,58965.0,Cash,11699,Mohol
+2024-07-25,INV1609,Accessory,Lock,2,421,842.0,Cash,158,Kurduwadi
+2024-01-17,INV4608,Spare Part,Gear Cable,2,302,604.0,UPI,73,Solapur
+2024-07-10,INV9939,Bicycle,Hero Octane 700C,3,10085,30255.0,,5270,Akkalkot
+2025-01-28,INV8743,Spare Part,Chain Set,2,297,594.0,Card,111,Pandharpur
+2024-12-18,INV6376,Accessory,Lock,1,892,892.0,UPI,212,Kurduwadi
+2024-03-25,INV9246,Spare Part,Chain Set,3,523,1569.0,Bank Transfer,275,Kurduwadi
+2025-01-09,INV3520,Bicycle,Hero Sprint 26T,2,12895,25790.0,Cash,5803,Akkalkot
+2024-06-29,INV3829,Accessory,Lock,3,645,1935.0,Card,203,Akkalkot
+2025-04-05,INV8262,Spare Part,Gear Cable,2,821,1642.0,UPI,389,Pandharpur
+2025-03-02,INV7855,Bicycle,,2,10835,21670.0,UPI,3960,Mohol
+2025-02-27,INV1051,Accessory,Helmet,3,203,609.0,Bank Transfer,92,Kurduwadi
+2025-01-23,INV9310,Accessory,Helmet,1,634,634.0,Bank Transfer,64,Kurduwadi
+2025-06-05,INV3224,Bicycle,Hero Octane 700C,3,15019,45057.0,Bank Transfer,10443,Pandharpur
+2025-06-29,INV2106,Bicycle,Avon Lady Star 24T,1,11938,11938.0,,2052,Kurduwadi
+2024-12-22,INV1545,Bicycle,,1,8437,8437.0,UPI,1479,Akkalkot
+2024-05-15,INV5406,Bicycle,Avon Lady Star 24T,1,18996,18996.0,Card,3022,Kurduwadi
+2025-04-01,INV8336,Spare Part,Brake Cable,2,940,1880.0,UPI,277,Akkalkot
+2025-05-08,INV4660,Spare Part,Pedal Set,2,537,1074.0,Cash,201,Barshi
+2024-06-07,INV9885,Spare Part,Chain Set,2,792,1584.0,UPI,298,Barshi
+2024-06-09,INV3235,Accessory,Lock,1,915,915.0,Card,131,Solapur
+2025-05-16,INV2733,Accessory,Hand Gloves,2,370,740.0,Cash,152,Barshi
+2025-05-20,INV5679,Spare Part,Brake Cable,3,681,2043.0,Cash,371,Akkalkot
+2024-09-21,INV6050,Spare Part,Gear Cable,2,623,1246.0,Cash,183,Pandharpur
+2024-07-05,INV7155,Bicycle,,2,8938,17876.0,,4243,Kurduwadi
+2024-05-25,INV3592,Accessory,Helmet,3,685,2055.0,Cash,220,Akkalkot
+2025-01-04,INV2900,Bicycle,Atlas 27T,1,14514,14514.0,UPI,3120,Kurduwadi
+2024-12-22,INV7784,Bicycle,Avon Lady Star 24T,2,14902,29804.0,Cash,6237,Kurduwadi
+2024-12-28,INV6309,Bicycle,Atlas 27T,1,18365,18365.0,Bank Transfer,2185,Pandharpur
+2025-05-01,INV5382,Bicycle,,2,19910,39820.0,Card,7919,Akkalkot
+2024-03-12,INV6367,Bicycle,Hero Octane 700C,2,13751,27502.0,UPI,3243,Pandharpur
+2024-11-28,INV6692,Bicycle,Atlas 27T,3,16452,49356.0,Cash,8731,Barshi
+2024-01-08,INV2595,Spare Part,,2,261,522.0,UPI,65,Akkalkot
+2025-07-04,INV4065,Bicycle,Atlas 27T,2,15259,30518.0,Bank Transfer,5238,Mohol
+2024-09-26,INV9145,Spare Part,Chain Set,1,793,793.0,Cash,139,Mohol
+2024-08-31,INV5238,Bicycle,Hero Sprint 26T,2,8041,16082.0,Cash,3483,Pandharpur
+2024-08-22,INV8303,Accessory,Lock,2,498,996.0,UPI,211,Barshi
+2024-02-20,INV5300,Bicycle,Atlas 27T,2,15694,31388.0,Cash,5469,Barshi
+2024-05-30,INV2976,Spare Part,Brake Cable,3,516,1548.0,Bank Transfer,299,Mohol
+2024-01-23,INV4757,Accessory,Helmet,2,481,962.0,Cash,151,Kurduwadi
+2024-07-20,INV8300,Accessory,Helmet,2,662,1324.0,UPI,277,Barshi
+2025-04-15,INV6844,Accessory,Lock,1,536,536.0,Bank Transfer,121,Kurduwadi
+2024-06-05,INV4915,Spare Part,Chain Set,2,350,700.0,Card,150,Mohol
+2025-04-27,INV3755,Spare Part,Tyre Tube Set,2,441,882.0,Card,213,Barshi
+2024-03-02,INV3925,Accessory,Hand Gloves,3,265,795.0,Card,164,Kurduwadi
+2025-01-03,INV7834,Bicycle,Firefox Bad Attitude,3,10025,30075.0,Bank Transfer,6831,Pandharpur
+2024-10-28,INV8794,Accessory,Helmet,1,615,615.0,Cash,131,Pandharpur
+2024-11-22,INV5275,Bicycle,Hero Sprint 26T,1,17991,17991.0,Bank Transfer,4291,Solapur
+2024-03-20,INV3498,Spare Part,Brake Cable,2,969,1938.0,Card,306,Barshi
+2024-02-24,INV2090,Accessory,Hand Gloves,2,242,,Cash,93,Solapur
+2024-05-01,INV3350,Bicycle,Hercules Roadeo 29T,3,11036,33108.0,Cash,3546,Pandharpur
+2025-03-14,INV1980,Accessory,Helmet,2,597,1194.0,UPI,132,Kurduwadi
+2024-03-08,INV2118,Bicycle,Hero Octane 700C,1,9326,9326.0,Bank Transfer,1856,Mohol
+2025-05-07,INV5015,Bicycle,Hero Octane 700C,3,19878,59634.0,Card,10205,Kurduwadi
+2024-03-12,INV6610,Spare Part,Gear Cable,2,537,1074.0,UPI,121,Akkalkot
+2025-02-22,INV3422,Spare Part,Brake Cable,2,304,608.0,Bank Transfer,141,Akkalkot
+2024-10-29,INV6859,Accessory,Hand Gloves,3,433,1299.0,,230,Pandharpur
+2024-03-02,INV7994,Accessory,Water Bottle Holder,1,844,844.0,Card,200,Mohol
+2024-11-27,INV2583,Spare Part,Brake Cable,2,303,606.0,,96,Akkalkot
+2025-01-13,INV9346,Bicycle,Hercules Roadeo 29T,1,14351,14351.0,Card,2750,Solapur
+2024-02-29,INV4460,Bicycle ,Hero Octane 700C,2,14079,28158.0,Bank Transfer,4205,Pandharpur
+2025-04-10,INV4442,Accessory,Water Bottle Holder,2,369,738.0,Cash,141,Mohol
+2024-09-14,INV7043,Accessory,Lock,2,621,1242.0,Cash,260,Akkalkot
+2024-06-07,INV3369,Bicycle,Firefox Bad Attitude,3,19932,59796.0,UPI,12766,Akkalkot
+2024-11-22,INV8003,Accessory,Cycle Pump,2,471,942.0,Bank Transfer,107,Pandharpur
+2024-04-28,INV4121,Accessory,Water Bottle Holder,2,402,804.0,UPI,146,Akkalkot
+2024-05-30,INV7191,Accessory,Cycle Pump,3,684,2052.0,,261,Kurduwadi
+2024-05-18,INV5767,Bicycle,Hero Sprint 26T,1,14975,14975.0,Card,3336,Barshi
+2024-09-23,INV9744,Accessory,Helmet,3,944,2832.0,Card,309,Kurduwadi
+2024-12-13,INV9732,Bicycle,Hercules Roadeo 29T,1,18750,18750.0,Cash,3717,Solapur
+2024-10-15,INV3747,Bicycle,Hero Sprint 26T,1,18581,18581.0,Bank Transfer,3719,Pandharpur
+2024-07-19,INV6766,Bicycle,Atlas 27T,3,8611,25833.0,Cash,6164,Kurduwadi
+2024-01-03,INV4447,Accessory,Helmet,2,837,1674.0,Cash,179,Solapur
+2024-12-16,INV2043,Spare Part,Tyre Tube Set,2,934,1868.0,Cash,347,Pandharpur
+2024-02-01,INV3589,Spare Part,Tyre Tube Set,2,194,388.0,Bank Transfer,47,Solapur
+2025-02-27,INV5027,Bicycle,Avon Lady Star 24T,3,10468,31404.0,Bank Transfer,6269,Pandharpur
+2025-01-09,INV7283,Bicycle,Avon Lady Star 24T,1,9850,9850.0,UPI,2044,Pandharpur
+2025-03-27,INV9454,Bicycle,Avon Lady Star 24T,1,11670,11670.0,Card,1612,Pandharpur
+2024-05-18,INV7521,Bicycle,Hero Sprint 26T,1,15495,15495.0,UPI,2059,Kurduwadi
+2024-05-10,INV8279,Accessory,Lock,3,469,1407.0,Card,182,Barshi
+2024-02-28,INV3630,Spare Part,Pedal Set,3,330,990.0,Bank Transfer,204,Akkalkot
+2024-04-17,INV8051,Bicycle,Avon Lady Star 24T,2,11346,22692.0,Card,4134,Barshi
+2024-03-20,INV6684,Spare Part,Gear Cable,2,787,1574.0,UPI,348,Kurduwadi
+2025-02-25,INV5524,Accessory,Helmet,2,992,1984.0,Bank Transfer,344,Kurduwadi
+2024-09-25,INV8253,Bicycle,Hercules Roadeo 29T,1,11775,11775.0,Card,2306,Barshi
+2024-04-13,INV1268,Bicycle,Hercules Roadeo 29T,1,10316,10316.0,Cash,1815,Mohol
+2025-05-21,INV9347,Spare Part,Tyre Tube Set,2,164,328.0,UPI,60,Mohol
+2024-03-10,INV5752,Bicycle,Firefox Bad Attitude,2,11069,22138.0,Cash,3049,Mohol
+2025-02-21,INV9619,Spare Part,Tyre Tube Set,2,324,648.0,UPI,108,Akkalkot
+2024-01-25,INV4845,Bicycle,Hercules Roadeo 29T,2,12097,24194.0,Bank Transfer,3452,Barshi
+2024-04-28,INV5452,Bicycle,Atlas 27T,3,9294,27882.0,Cash,4269,Akkalkot
+2025-02-25,INV5868,Spare Part,Pedal Set,3,399,1197.0,UPI,266,Kurduwadi
+2024-04-27,INV4405,Accessory,Hand Gloves,3,622,1866.0,Bank Transfer,268,Barshi
+2025-01-25,INV1091,Bicycle,Hercules Roadeo 29T,2,10882,21764.0,Cash,2399,Pandharpur
+2024-11-22,INV7064,Spare Part,Brake Cable,3,951,2853.0,UPI,507,Mohol
+2025-06-02,INV7192,Bicycle,Hercules Roadeo 29T,1,19782,19782.0,Cash,4404,Kurduwadi
+2024-08-31,INV5705,Bicycle,Avon Lady Star 24T,2,14685,29370.0,UPI,4954,Mohol
+2024-04-09,INV1712,Accessory,Helmet,3,338,1014.0,Cash,123,Akkalkot
+2024-04-17,INV5218,Spare Part,Gear Cable,1,253,253.0,UPI,29,Barshi
+2024-04-14,INV6715,Accessory,Cycle Pump,3,372,1116.0,UPI,175,Mohol
+2024-03-02,INV3063,Bicycle,,2,11574,23148.0,Cash,4838,Pandharpur
+2024-11-06,INV2060,Spare Part,Brake Cable,3,518,1554.0,UPI,242,Akkalkot
+2024-12-10,INV4751,Accessory,Cycle Pump,3,299,897.0,UPI,142,Solapur
+2024-11-05,INV3431,Accessory,Lock,3,211,633.0,UPI,146,Solapur
+2024-05-22,INV4691,Bicycle,Firefox Bad Attitude,2,11079,22158.0,Bank Transfer,4489,Solapur
+2024-04-13,INV5363,Spare Part,Brake Cable,2,783,1566.0,Cash,171,Mohol
+2024-05-24,INV4793,Spare Part,Brake Cable,2,804,1608.0,Card,285,Barshi
+2024-11-02,INV2764,Bicycle,Avon Lady Star 24T,1,10735,10735.0,UPI,2286,Kurduwadi
+2025-07-01,INV1156,Bicycle,Hero Sprint 26T,3,17061,51183.0,UPI,12170,Barshi
+2025-01-08,INV3086,Bicycle,Hero Sprint 26T,2,15027,30054.0,UPI,6840,Mohol
+2024-07-07,INV9164,Spare Part,Gear Cable,3,620,1860.0,Card,387,Pandharpur
+2024-01-24,INV5700,Spare Part,Pedal Set,2,214,428.0,Cash,69,Solapur
+2024-10-05,INV7945,Accessory,Hand Gloves,1,514,514.0,Card,71,Mohol
+2024-03-17,INV2677,Accessory,Cycle Pump,2,399,798.0,UPI,88,Akkalkot
+2024-06-21,INV9113,Bicycle,Atlas 27T,1,18999,18999.0,Bank Transfer,2638,Pandharpur
+2024-02-12,INV9165,Accessory,Water Bottle Holder,2,287,574.0,Cash,129,Solapur
+2025-06-03,INV5587,Accessory,Helmet,3,804,2412.0,Bank Transfer,287,Barshi
+2025-01-16,INV5793,Accessory,Cycle Pump,3,298,894.0,,118,Kurduwadi
+2024-09-13,INV2213,Bicycle,Hercules Roadeo 29T,2,11333,22666.0,Bank Transfer,4910,Kurduwadi
+2024-03-05,INV5884,Spare Part,Brake Cable,3,285,855.0,Card,167,Akkalkot
+2024-04-08,INV2841,Spare Part,Gear Cable,3,495,1485.0,Card,196,Akkalkot
+2024-08-19,INV4136,Spare Part,Tyre Tube Set,1,525,525.0,Cash,87,Mohol
+2024-12-29,INV8974,Accessory,Cycle Pump,1,624,624.0,Bank Transfer,154,Mohol
+2024-11-24,INV6466,Spare Part,Pedal Set,1,170,170.0,Bank Transfer,31,Solapur
+2024-12-15,INV6320,Bicycle,Atlas 27T,3,17196,51588.0,Cash,12330,Barshi
+2024-05-27,INV1411,Spare Part,Chain Set,1,177,177.0,Cash,42,Kurduwadi
+2024-04-04,INV2540,Spare Part,Pedal Set,2,722,1444.0,Bank Transfer,197,Mohol
+2024-05-11,INV1140,Accessory,Water Bottle Holder,3,271,813.0,Bank Transfer,-107,Kurduwadi
+2025-04-14,INV4082,Accessory,Lock,3,336,1008.0,UPI,241,Kurduwadi
+2024-03-30,INV7195,Accessory,Helmet,3,438,1314.0,Card,199,Mohol
+2024-01-06,INV9518,Bicycle,Hero Octane 700C,1,12098,12098.0,UPI,2343,Kurduwadi
+2024-09-08,INV7365,Bicycle,Atlas 27T,1,12027,12027.0,Card,1823,Mohol
+2025-03-12,INV4319,Bicycle,Atlas 27T,1,15278,15278.0,UPI,2522,Barshi
+2024-04-22,INV6964,Bicycle,Avon Lady Star 24T,3,18509,55527.0,Cash,5572,Akkalkot
+2024-11-01,INV4278,Bicycle,Atlas 27T,2,14197,28394.0,UPI,6852,Pandharpur
+2025-02-28,INV5641,Accessory,Cycle Pump,2,353,706.0,Card,109,Akkalkot
+2024-11-12,INV8472,Accessory,Cycle Pump,1,262,262.0,Card,33,Akkalkot
+2024-10-30,INV6309,Accessory,Helmet,2,315,630.0,Bank Transfer,91,Pandharpur
+2024-04-06,INV4677,Spare Part,Brake Cable,3,764,2292.0,Cash,373,Akkalkot
+2024-03-21,INV5895,Bicycle,Hero Octane 700C,2,9335,18670.0,Bank Transfer,2577,Kurduwadi
+2024-01-17,INV9015,Bicycle,,1,8613,8613.0,,1120,Mohol
+2025-06-04,INV8876,Bicycle,Hercules Roadeo 29T,2,14330,28660.0,Cash,7137,Barshi
+2024-11-29,INV8439,Spare Part,Gear Cable,2,625,1250.0,Bank Transfer,216,Solapur
+2025-03-02,INV9835,Bicycle,Atlas 27T,2,17362,34724.0,Cash,6524,Solapur
+2024-04-09,INV6673,Accessory,Helmet,3,726,2178.0,Card,406,Mohol
+2025-05-23,INV9936,Bicycle,Avon Lady Star 24T,1,17492,17492.0,Card,2154,Akkalkot
+2024-06-25,INV4946,Bicycle,Hercules Roadeo 29T,1,13978,13978.0,UPI,2827,Akkalkot
+2024-08-03,INV4087,Accessory,Cycle Pump,1,255,255.0,UPI,54,Kurduwadi
+2024-11-10,INV2739,Bicycle,Hercules Roadeo 29T,2,18522,37044.0,Bank Transfer,3708,Barshi
+2024-10-25,INV6457,Accessory,Water Bottle Holder,2,901,1802.0,Cash,319,Mohol
+2024-04-23,INV5589,Spare Part,Gear Cable,1,174,174.0,UPI,25,Mohol
+2024-01-24,INV8151,Spare Part,Pedal Set,3,466,1398.0,Card,297,Pandharpur
+2024-03-03,INV4359,Accessory,Lock,1,520,520.0,Bank Transfer,106,Mohol
+2024-12-27,INV2499,Accessory,Water Bottle Holder,3,871,2613.0,UPI,288,Solapur
+2025-06-16,INV2034,Accessory,Hand Gloves,1,699,699.0,UPI,119,Pandharpur
+2025-01-31,INV4405,Bicycle,Firefox Bad Attitude,1,11858,11858.0,UPI,1869,Pandharpur
+2025-02-26,INV2043,Spare Part,Tyre Tube Set,2,594,1188.0,UPI,256,Solapur
+2024-08-17,INV3517,Bicycle,Avon Lady Star 24T,3,13945,41835.0,UPI,9881,Kurduwadi
+2024-12-14,INV5106,Accessory,Helmet,2,861,1722.0,UPI,271,Barshi
+2025-01-14,INV2906,Accessory,Lock,3,945,2835.0,Cash,560,Barshi
+2024-04-18,INV9828,Bicycle,Hero Sprint 26T,3,11637,34911.0,UPI,5021,Kurduwadi
+2025-01-12,INV2136,Bicycle,Hero Octane 700C,2,17612,35224.0,UPI,6134,Barshi
+2024-12-19,INV3796,Accessory,Cycle Pump,3,572,1716.0,,346,Mohol
+2024-05-06,INV8686,Bicycle,Hero Sprint 26T,2,9473,18946.0,Card,3670,Pandharpur
+2024-09-28,INV4084,Accessory,Hand Gloves,2,907,1814.0,Cash,293,Pandharpur
+2024-04-22,INV6476,Spare Part,Chain Set,2,829,1658.0,UPI,233,Barshi
+2024-01-21,INV5033,Bicycle,Avon Lady Star 24T,2,13656,27312.0,Card,3690,Kurduwadi
+2025-05-17,INV5039,Bicycle,Firefox Bad Attitude,2,15892,31784.0,Bank Transfer,4802,Mohol
+2024-01-22,INV8734,Accessory,Helmet,1,621,621.0,Bank Transfer,107,Barshi
+2024-10-31,INV9558,Spare Part,Gear Cable,3,886,2658.0,Bank Transfer,437,Kurduwadi
+2024-11-10,INV3138,Bicycle,Hero Sprint 26T,1,19397,19397.0,Cash,2572,Akkalkot
+2024-10-19,INV1559,Accessory,Cycle Pump,1,974,974.0,UPI,140,Barshi
+2025-05-20,INV8574,Bicycle ,Water Bottle Holder,1,895,895.0,Bank Transfer,188,Barshi
+2024-08-12,INV8481,Spare Part,Chain Set,3,192,576.0,Bank Transfer,74,Mohol
+2024-10-06,INV3510,Bicycle,Hercules Roadeo 29T,2,15622,31244.0,Card,4506,Pandharpur
+2024-09-30,INV8733,Bicycle,Atlas 27T,2,18209,36418.0,Card,6147,Barshi
+2025-02-08,INV5231,Bicycle,Firefox Bad Attitude,2,19289,38578.0,UPI,6360,Solapur
+2024-12-07,INV4625,Accessory,Cycle Pump,3,801,2403.0,Card,436,Mohol
+2024-11-06,INV2965,Spare Part,Brake Cable,1,595,595.0,UPI,136,Pandharpur
+2025-04-01,INV4238,Accessory,Cycle Pump,2,620,1240.0,Cash,255,Solapur
+2024-11-28,INV9568,Bicycle,Hero Sprint 26T,3,17585,52755.0,Bank Transfer,10052,Akkalkot
+2024-10-28,INV8870,Bicycle,Hero Octane 700C,3,19469,58407.0,UPI,7817,Pandharpur
+2024-11-29,INV2059,Bicycle,Hero Sprint 26T,3,9209,27627.0,Bank Transfer,5853,Barshi
+2025-05-17,INV6123,Accessory,Hand Gloves,3,266,798.0,UPI,84,Akkalkot
+2024-07-22,INV6643,Bicycle,Hercules Roadeo 29T,3,16253,48759.0,Card,5555,Solapur
+2024-02-19,INV8824,Accessory,Hand Gloves,2,834,1668.0,Card,409,Pandharpur
+2024-01-22,INV1100,Accessory,Hand Gloves,1,988,988.0,Card,245,Solapur
+2024-09-15,INV5924,Spare Part,Brake Cable,3,885,2655.0,UPI,366,Pandharpur
+2024-12-16,INV5978,Spare Part,Brake Cable,1,900,900.0,UPI,194,Barshi
+2025-05-29,INV9393,Spare Part,Pedal Set,3,697,2091.0,Bank Transfer,216,Pandharpur
+2024-11-26,INV7228,Bicycle,Atlas 27T,3,19311,57933.0,Cash,11318,Mohol
+2024-06-14,INV8085,Bicycle ,Firefox Bad Attitude,2,8086,16172.0,UPI,2488,Mohol
+2024-08-23,INV8947,Spare Part,Gear Cable,2,689,1378.0,Card,313,Kurduwadi
+2024-11-28,INV4473,Accessory,Hand Gloves,2,762,1524.0,Bank Transfer,227,Barshi
+2025-03-12,INV5662,Spare Part,Brake Cable,3,775,2325.0,Card,298,Akkalkot
+2024-09-20,INV7870,Spare Part,,2,508,1016.0,Bank Transfer,147,Kurduwadi
+2024-09-25,INV8888,Spare Part,Gear Cable,2,723,1446.0,Bank Transfer,297,Solapur
+2025-04-28,INV5042,Spare Part,Pedal Set,1,905,905.0,Bank Transfer,175,Kurduwadi
+2025-06-28,INV6129,Spare Part,,2,524,1048.0,Cash,220,Kurduwadi
+2024-01-25,INV2828,Accessory,,3,361,1083.0,Bank Transfer,248,Barshi
+2025-01-15,INV6259,Spare Part,Chain Set,2,193,386.0,Cash,78,Kurduwadi
+2024-06-29,INV3829,Accessory,Lock,3,645,1935.0,Card,203,Akkalkot
+2024-08-22,INV9949,Spare Part,Brake Cable,2,759,1518.0,Card,317,Pandharpur
+2025-04-26,INV4780,Spare Part,Chain Set,2,496,992.0,Card,217,Pandharpur
+2024-07-28,INV3377,Accessory,Lock,3,848,2544.0,UPI,521,Barshi
+2024-06-25,INV6273,Accessory,Helmet,1,352,352.0,Cash,66,Barshi
+2024-07-02,INV7612,Spare Part,Gear Cable,2,635,1270.0,Bank Transfer,144,Mohol
+2024-05-31,INV3726,Bicycle,Hero Octane 700C,2,13350,26700.0,Cash,4384,Mohol
+2025-04-04,INV3407,Bicycle,Firefox Bad Attitude,1,10331,10331.0,Cash,1653,Kurduwadi
+2025-05-22,INV3050,Spare Part,Gear Cable,1,998,998.0,Cash,146,Solapur
+2024-02-28,INV4310,Spare Part,Brake Cable,2,325,650.0,Card,130,Akkalkot
+2025-02-26,INV3028,Accessory,,3,878,2634.0,Card,470,Barshi
+2024-05-13,INV3068,Spare Part,Pedal Set,3,492,1476.0,Cash,198,Akkalkot
+2024-05-31,INV2348,Spare Part,Tyre Tube Set,3,572,1716.0,UPI,359,Solapur
+2024-04-28,INV2857,Spare Part,Brake Cable,3,351,1053.0,Card,173,Solapur
+2024-04-15,INV4205,Spare Part,Tyre Tube Set,1,531,531.0,UPI,57,Solapur
+2025-06-25,INV4518,Spare Part,Brake Cable,1,438,438.0,Card,102,Akkalkot
+2025-05-28,INV2445,Bicycle,Firefox Bad Attitude,3,15449,46347.0,Card,7473,Mohol
+2024-08-16,INV2267,Bicycle,Firefox Bad Attitude,2,10041,20082.0,UPI,2132,Barshi
+2024-06-15,INV2850,Accessory,Cycle Pump,3,609,1827.0,UPI,355,Akkalkot
+2024-07-29,INV7041,Bicycle,Firefox Bad Attitude,1,14779,14779.0,Cash,2912,Akkalkot
+2024-10-16,INV7850,Spare Part,Chain Set,1,448,448.0,UPI,103,Pandharpur
+2025-01-01,INV4201,Spare Part,Gear Cable,2,442,884.0,Card,165,Solapur
+2025-06-25,INV8577,Bicycle ,Hand Gloves,1,268,268.0,Cash,41,Mohol
+2024-10-31,INV7811,Spare Part,Pedal Set,1,850,850.0,UPI,204,Pandharpur
+2024-09-20,INV3076,Bicycle,Firefox Bad Attitude,1,17397,17397.0,Bank Transfer,1752,Akkalkot
+2024-06-27,INV8839,Spare Part,Tyre Tube Set,3,393,1179.0,Bank Transfer,200,Akkalkot
+2024-04-06,INV4270,Spare Part,Brake Cable,1,666,666.0,Bank Transfer,80,Akkalkot
+2024-08-30,INV1109,Bicycle,Avon Lady Star 24T,2,17773,35546.0,Cash,6456,Kurduwadi
+2025-06-04,INV2446,Spare Part,Brake Cable,2,208,416.0,Card,43,Barshi
+2024-10-26,INV7153,Spare Part,Chain Set,1,321,321.0,Bank Transfer,66,Akkalkot
+2024-08-25,INV5966,Bicycle,Hero Sprint 26T,2,12657,25314.0,UPI,5788,Barshi
+2024-02-18,INV4629,Accessory,Hand Gloves,3,846,2538.0,Cash,505,Kurduwadi
+2025-04-12,INV8740,Bicycle,Atlas 27T,1,14580,14580.0,Cash,1879,Barshi
+2024-04-11,INV4625,Bicycle,Firefox Bad Attitude,3,19504,58512.0,Bank Transfer,13325,Pandharpur
+2025-06-03,INV8953,Spare Part,Pedal Set,2,698,1396.0,Bank Transfer,241,Pandharpur
+2024-10-08,INV7182,Accessory,Water Bottle Holder,1,916,916.0,Bank Transfer,229,Kurduwadi
+2024-12-03,INV7124,Accessory,Lock,1,315,315.0,UPI,47,Kurduwadi
+2024-03-03,INV7721,Accessory,Helmet,1,935,935.0,UPI,207,Kurduwadi
+2024-11-14,INV3797,Accessory,Hand Gloves,3,691,2073.0,Cash,247,Mohol
+2024-04-14,INV4344,Spare Part,Gear Cable,1,706,706.0,Cash,105,Mohol
+2024-05-20,INV4905,Accessory,Helmet,3,309,927.0,Bank Transfer,222,Pandharpur
+2024-05-28,INV4703,Spare Part,,1,361,,UPI,60,Mohol
+2025-02-06,INV1011,Spare Part,Brake Cable,2,946,1892.0,Cash,454,Barshi
+2024-09-07,INV7329,Bicycle ,Pedal Set,3,353,1059.0,UPI,146,Akkalkot
+2024-09-21,INV4827,Bicycle,Avon Lady Star 24T,1,8811,8811.0,Cash,2043,Mohol
+2024-11-21,INV8122,Bicycle,Firefox Bad Attitude,2,13432,26864.0,Bank Transfer,5183,Akkalkot
+2024-07-10,INV2948,Spare Part,Tyre Tube Set,3,564,1692.0,Cash,348,Barshi
+2024-08-23,INV3428,Bicycle,Firefox Bad Attitude,3,10852,32556.0,UPI,5597,Barshi
+2025-01-23,INV6426,Accessory,Lock,3,884,2652.0,Card,623,Kurduwadi
+2024-02-02,INV5436,Bicycle,Avon Lady Star 24T,1,9004,9004.0,Cash,958,Pandharpur
+2024-11-30,INV8818,Spare Part,Pedal Set,2,603,1206.0,,243,Mohol
+2024-03-07,INV3212,Spare Part,Brake Cable,2,604,1208.0,Cash,291,Akkalkot
+2024-08-26,INV8952,Spare Part,Chain Set,1,950,950.0,Card,233,Akkalkot
+2024-01-30,INV5644,Bicycle,,3,8431,25293.0,Bank Transfer,4927,Solapur
+2024-03-15,INV2637,Spare Part,Tyre Tube Set,3,691,2073.0,UPI,375,Barshi
+2025-05-29,INV4485,Spare Part,Gear Cable,3,455,1365.0,UPI,299,Mohol
+2024-12-17,INV2838,Bicycle,Hero Octane 700C,2,13617,27234.0,Cash,5833,Solapur
+2025-06-19,INV2663,Spare Part,Pedal Set,3,269,807.0,Bank Transfer,-109,Mohol
+2025-03-18,INV1931,Bicycle,Hero Sprint 26T,3,13157,39471.0,Cash,8111,Mohol
+2025-03-04,INV4176,Bicycle,Avon Lady Star 24T,1,14090,14090.0,Card,2185,Mohol
+2024-08-23,INV6570,Bicycle,Hero Sprint 26T,3,17353,52059.0,Bank Transfer,12738,Barshi
+2025-05-25,INV2336,Accessory,Hand Gloves,1,235,235.0,Card,51,Pandharpur
+2024-03-06,INV4363,Spare Part,Chain Set,3,171,513.0,Cash,91,Solapur
+2024-11-12,INV7975,Spare Part,Pedal Set,1,354,354.0,Bank Transfer,58,Barshi
+2024-01-28,INV3291,Spare Part,,1,342,342.0,Card,59,Akkalkot
